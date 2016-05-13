@@ -1,0 +1,52 @@
+PODS:
+  - AFNetworking (2.5.1):
+    - AFNetworking/NSURLConnection (= 2.5.1)
+    - AFNetworking/NSURLSession (= 2.5.1)
+    - AFNetworking/Reachability (= 2.5.1)
+    - AFNetworking/Security (= 2.5.1)
+    - AFNetworking/Serialization (= 2.5.1)
+    - AFNetworking/UIKit (= 2.5.1)
+  - AFNetworking/NSURLConnection (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.1)
+  - AFNetworking/Security (2.5.1)
+  - AFNetworking/Serialization (2.5.1)
+  - AFNetworking/UIKit (2.5.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - DDLogger (1.1.1):
+    - ICTextView (~> 2.0.1)
+  - ICTextView (2.0.1)
+  - MBProgressHUD (0.9.1)
+  - MJExtension (3.0.3)
+  - Reachability (3.2)
+  - ZJCache (1.0.0):
+    - DDLogger (~> 1.1.1)
+    - ZJUtils (~> 1.0.2)
+  - ZJUtils (1.0.2)
+
+DEPENDENCIES:
+  - AFNetworking (= 2.5.1)
+  - DDLogger (= 1.1.1)
+  - MBProgressHUD (= 0.9.1)
+  - MJExtension (= 3.0.3)
+  - Reachability (= 3.2)
+  - ZJCache (= 1.0.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 10e85a00bb0f475124e4ff2677bf15693b2c1523
+  DDLogger: 32ca5e6324a4e90adda1e112a398effa1d7d7933
+  ICTextView: 937aca5dd49e39e9cca41ababe8c55bf99c634fc
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJExtension: de557e1c48ef3212590d3203764c8003fae68815
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  ZJCache: 72119a46ae278124da557ef2866f40d1f9098c25
+  ZJUtils: f34f86511a34a23a08de6f60349b4f0b9f45de76
+
+COCOAPODS: 0.39.0
