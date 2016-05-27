@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.platform      = :ios, '7.0'
   s.dependency     'ZJCache','1.0.0'
   s.dependency     'DDLogger','1.1.1'
-  s.dependency     'AFNetworking','2.5.1'
+  s.dependency     'AFNetworking', '3.1.0'
   s.dependency     'Reachability','3.2'
   s.dependency     'MBProgressHUD','0.9.1'
   s.dependency     'MJExtension','3.0.3'
