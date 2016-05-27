@@ -8,22 +8,31 @@
 
 #import "ZJBaseDataRequest.h"
 
-typedef enum {
-    LOGINTYPE_GOLOGIN,///返回403跳转登录页面
-    LOGINTYPE_NOLOGIN,///返回403不会跳转登录页
-    LOGINTYPE_NOTOKEN,///不会返回403，即不需要传token
-}LOGINTYPE;
 
 
 @class AFHTTPRequestOperation;
 @interface ZJAFNBaseDataRequest : ZJBaseDataRequest
-@property(nonatomic,assign)LOGINTYPE loginType;
 @property(nonatomic,assign)BOOL isNoToken;
 @property(nonatomic,strong)NSString *port;
+
+/**
+ *  重写后错误信息
+ *
+ *  @param error 错误信息
+ */
 -(void)showNetError:(NSString*)error;
-- (void)notifyDelegateUpdateProgress;
--(void)requestSuccess:(AFHTTPRequestOperation *)operation responseObject:(id)responseObject;
-- (void)networkingOperationDidFinish:(NSNotification *)notification;
--(void)requestFailure:(AFHTTPRequestOperation *)operation error:(NSError*) error;
--(void)recordLog:(AFHTTPRequestOperation*)operation handleMessage:(NSString*)msg withError:(NSError*)requestError;
+///**
+// *  重写请求方式GET/POST/MultipartPost
+// *
+// *  @return 返回类型
+// */
+//- (ZJRequestMethod)getRequestMethod;
+//
+///**
+// *  以什么形式请求常用JSON，LIST，FROMAT
+// *
+// *  @return 返回请求类型
+// */
+//- (ZJParameterEncoding)parmaterEncoding;
+
 @end

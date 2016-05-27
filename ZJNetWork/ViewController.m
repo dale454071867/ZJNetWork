@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "DemoRequest.h"
 @interface ViewController ()
 
 @end
@@ -16,6 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    [DemoRequest requestCommentWithParameters:@{@"official":@"true"} onRequestFinished:^(ZJBaseDataRequest *request) {
+        
+    } onRequestFailed:^(ZJBaseDataRequest *request) {
+        
+    }];
     // Do any additional setup after loading the view, typically from a nib.
 }
 

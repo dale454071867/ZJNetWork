@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A0523FC1CE5AC5800C0FE8A /* DemoRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A0523FB1CE5AC5800C0FE8A /* DemoRequest.m */; };
 		4A5C8E411CE454A6005EAEFB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A5C8E401CE454A6005EAEFB /* main.m */; };
 		4A5C8E441CE454A6005EAEFB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A5C8E431CE454A6005EAEFB /* AppDelegate.m */; };
 		4A5C8E471CE454A6005EAEFB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A5C8E461CE454A6005EAEFB /* ViewController.m */; };
@@ -55,6 +56,8 @@
 
 /* Begin PBXFileReference section */
 		42B0BF27FB96DD700DA34DF7 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A0523FA1CE5AC5800C0FE8A /* DemoRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoRequest.h; sourceTree = "<group>"; };
+		4A0523FB1CE5AC5800C0FE8A /* DemoRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoRequest.m; sourceTree = "<group>"; };
 		4A5C8E3C1CE454A6005EAEFB /* ZJNetWork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZJNetWork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A5C8E401CE454A6005EAEFB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		4A5C8E421CE454A6005EAEFB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -174,6 +177,8 @@
 				4A5C8E4D1CE454A6005EAEFB /* LaunchScreen.storyboard */,
 				4A5C8E501CE454A6005EAEFB /* Info.plist */,
 				4A5C8E3F1CE454A6005EAEFB /* Supporting Files */,
+				4A0523FA1CE5AC5800C0FE8A /* DemoRequest.h */,
+				4A0523FB1CE5AC5800C0FE8A /* DemoRequest.m */,
 			);
 			path = ZJNetWork;
 			sourceTree = "<group>";
@@ -481,6 +486,7 @@
 				4A5C8E411CE454A6005EAEFB /* main.m in Sources */,
 				4A5C8E921CE4576C005EAEFB /* ZJBaseDataRequest.m in Sources */,
 				4A5C8EB31CE45B0E005EAEFB /* ErrorsInfoModel.m in Sources */,
+				4A0523FC1CE5AC5800C0FE8A /* DemoRequest.m in Sources */,
 				4A5C8E931CE4576C005EAEFB /* ZJDataEnvironment.m in Sources */,
 				4A5C8E981CE4576C005EAEFB /* ZJNetworkTrafficManager.m in Sources */,
 				4A5C8E991CE4576C005EAEFB /* ZJRequestDataHandler.m in Sources */,
@@ -627,6 +633,7 @@
 			baseConfigurationReference = AC40E31B6396FADE16E8E869 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				GCC_PREFIX_HEADER = ZJNetWork/ZJNetWork.pch;
 				INFOPLIST_FILE = ZJNetWork/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
@@ -641,6 +648,7 @@
 			baseConfigurationReference = F90205136AB2B3B96193AF75 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				GCC_PREFIX_HEADER = ZJNetWork/ZJNetWork.pch;
 				INFOPLIST_FILE = ZJNetWork/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;

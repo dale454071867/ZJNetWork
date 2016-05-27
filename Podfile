@@ -1,4 +1,5 @@
-pod 'AFNetworking','2.5.1'
+#pod 'AFNetworking','2.5.1'
+pod 'AFNetworking', '3.1.0'
 pod 'Reachability','3.2'
 pod 'MBProgressHUD','0.9.1'
 pod 'MJExtension','3.0.3'

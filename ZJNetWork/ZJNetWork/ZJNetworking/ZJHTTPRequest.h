@@ -9,7 +9,6 @@
 #import <Foundation/Foundation.h>
 #import "ZJHttpRequestManager.h"
 #import "ZJBaseDataRequest.h"
-#import "ZJNetwork.h"
 
 @interface ZJHTTPRequest : NSObject
 {

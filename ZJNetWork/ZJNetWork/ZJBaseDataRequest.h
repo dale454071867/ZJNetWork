@@ -7,7 +7,13 @@
 //
 #import "ZJRequestResult.h"
 #import "ZJDataCacheManager.h"
-#import "ZJNetwork.h"
+typedef enum {
+    ZJURLParameterEncoding,
+    ZJJSONParameterEncoding,
+    ZJPropertyListParameterEncoding,
+    ZJUploadParameterEncoding,//上传
+    ZJDownParameterEncoding,//下载
+} ZJParameterEncoding;
 
 typedef enum : NSUInteger{
     ZJRequestMethodGet = 0,
@@ -15,13 +21,14 @@ typedef enum : NSUInteger{
     ZJRequestMethodMultipartPost = 2,   // content type = @"multipart/form-data"//用于文件相关
     ZJRequestMethodPut, //暂缓开通
     ZJRequestMethodDelete,//暂缓开通
+    ZJRequestMethodHead,//暂缓开通
 } ZJRequestMethod;
 
+//上传路径还是数据
 typedef enum {
     ZJUpLoadData,
     ZJUpLoadDataPath
 }ZJUpLoadDataType;
-
 
 @class ZJRequestDataHandler;
 @class ZJBaseDataRequest;
@@ -53,13 +60,13 @@ typedef enum {
     void (^_onRequestFinishBlock)(ZJBaseDataRequest *);
     void (^_onRequestCanceled)(ZJBaseDataRequest *);
     void (^_onRequestFailedBlock)(ZJBaseDataRequest *, NSError *);
-    void (^_onRequestProgressChangedBlock)(ZJBaseDataRequest *, float);
-    void (^_onRequestProgressUpdateBlock)(ZJBaseDataRequest *,float);
+    void (^_onRequestProgressChangedBlock)(ZJBaseDataRequest *, CGFloat);
+    void (^_onRequestProgressUpdateBlock)(ZJBaseDataRequest *,CGFloat);
     
     //progress related
     long long _totalData;
     long long _downloadedData;
-    CGFloat   _currentProgress;
+    CGFloat  _downProgress;
     CGFloat   _updateProgress;
 }
 
@@ -67,7 +74,7 @@ typedef enum {
 
 
 @property (nonatomic, assign) BOOL isLoading;
-@property (nonatomic, assign) CGFloat currentProgress;
+@property (nonatomic, assign)  CGFloat  downProgress;
 @property (nonatomic, assign) CGFloat updateProgress;
 @property (nonatomic, assign) ZJParameterEncoding parmaterEncoding;
 @property (nonatomic, strong) id handleredResult;
@@ -86,8 +93,8 @@ typedef enum {
 @property(nonatomic,copy)void (^onRequestFinishBlock)(ZJBaseDataRequest *);
 @property(nonatomic,copy)void (^onRequestCanceled)(ZJBaseDataRequest *);
 @property(nonatomic,copy)void (^onRequestFailedBlock)(ZJBaseDataRequest *, NSError *);
-@property (nonatomic,copy)void (^onRequestProgressChangedBlock)(ZJBaseDataRequest *, float);
-@property (nonatomic,copy)void (^onRequestProgressUpdateBlock)(ZJBaseDataRequest *, float);
+@property (nonatomic,copy)void (^onRequestProgressChangedBlock)(ZJBaseDataRequest *,  CGFloat);
+@property (nonatomic,copy)void (^onRequestProgressUpdateBlock)(ZJBaseDataRequest *,  CGFloat);
 
 #pragma mark - init methods using delegate
 

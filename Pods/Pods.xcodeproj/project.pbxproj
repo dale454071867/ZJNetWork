@@ -10,6 +10,28 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
+		<key>003CF6B62924FB82F9B1D91CD136E148</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>F73CD857571314CD9A95C4A587079E10</string>
+				<string>A5FD75D06833F7EB7B387B3453E1D114</string>
+				<string>6266B7E2F31F4B365C95037B5384478B</string>
+				<string>CAFF98E464A0DF56FACCEEE86D5F81F2</string>
+				<string>CE5E5250D6FB20F623CA2068B27A4ABD</string>
+				<string>DED5A573D697074455E03CCAF2DCD2D2</string>
+				<string>405470B5A984A33EE2831884E1BAFDFC</string>
+				<string>BDB938D1439619ABD9F9778D5B03448D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>ICTextView</string>
+			<key>path</key>
+			<string>ICTextView</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>00D58A4B1C81F4AF9C06E29625F38F1F</key>
 		<dict>
 			<key>isa</key>
@@ -23,33 +45,31 @@
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>010D1044CA460EAA4D19C677043FFAFA</key>
+		<key>00F09DB5E05D1208F27161E2F016FE36</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>551C0B4180F1504F4B64BE1060061610</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>UIImageView+AFNetworking.m</string>
-			<key>path</key>
-			<string>UIKit+AFNetworking/UIImageView+AFNetworking.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>0283B8B952A2F13C579383B4A7AF516E</key>
+		<key>022B549F10007177A43FAB1DD5114F7D</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>00D58A4B1C81F4AF9C06E29625F38F1F</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>0354928FB04F7E7E5CB1B600FC182BFF</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>792883CE8EAA34C6C140709C3ECC833F</string>
+				<string>156AEEA4557714ADEC478AA984A809A7</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
 			<key>name</key>
-			<string>MJDictionaryCache.h</string>
-			<key>path</key>
-			<string>MJExtension/MJDictionaryCache.h</string>
+			<string>Reachability</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -66,29 +86,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>03EB88A844E7ECA13C0BFD982E8C2D0C</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3D234C594116838501F3A374468F9CF2</string>
-				<string>75A3F557B88C88E1861482F1BC5D7D09</string>
-				<string>330B7F33EF2547073E4DB1271F6034F8</string>
-				<string>BA9B8CA5258B2986B8ACB04287EE4E61</string>
-				<string>AEDCE9C852CA9232A89320F8BB794AC5</string>
-				<string>B86C9715D0CB71E5504B1908724D038F</string>
-				<string>4138F414435F44CB9AA2123008FEB1EE</string>
-				<string>5D6704C19FAAB8416737BF7422D6B0EC</string>
-				<string>442B1B4ED9DE0B1D281C4B5968AF287F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ZJCache</string>
-			<key>path</key>
-			<string>ZJCache</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>03F023B67FDD79A1BAD8D6634F6B123F</key>
 		<dict>
 			<key>containerPortal</key>
@@ -102,7 +99,7 @@
 			<key>remoteInfo</key>
 			<string>ICTextView</string>
 		</dict>
-		<key>0491C8D490FADEECA82BD97C8D9ED30F</key>
+		<key>0459284617AC53C8A7C1AAA5054D4476</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -111,42 +108,26 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>DDLogDetailViewController.h</string>
+			<string>MJProperty.h</string>
 			<key>path</key>
-			<string>DDLogger/DDLogDetailViewController.h</string>
+			<string>MJExtension/MJProperty.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>04A416BF54F937DAE3D19FE50DA72202</key>
+		<key>04921707D1E580973D7C4B70AF37A681</key>
 		<dict>
-			<key>fileRef</key>
-			<string>80D0F5D4A83DC79541368D194797D167</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>04F6492DF0B7A5669B29FD4F7C390666</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>3B1575769C2E1566036FFF2F22917E72</string>
-				<string>4AD68C44057762C862EB902673B98C56</string>
-				<string>E43F5D7E2C48C315DDA216F87E47B50B</string>
-				<string>1050F5E599DEA3C0FA7990B9C56E4073</string>
-				<string>95E69A233A1D42F7E36D4D4C79E5AF46</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MJFoundation.h</string>
+			<key>path</key>
+			<string>MJExtension/MJFoundation.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>052A17875CB827423D627183396CEB60</key>
 		<dict>
@@ -216,40 +197,7 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>056CA6EA387EEBEF09601FC8E0697C21</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ddlog_check_icon_selected@3x.png</string>
-			<key>path</key>
-			<string>DDLogger/ddlog_check_icon_selected@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>05DAEB863C387CF6EC14543E109FC389</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MBProgressHUD-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0659C55D67614156ACE73EF681E30DC7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7D0563DF4AB604174BAB96755D6A245B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>06A4D17CDD7565A7D0F7CA2A182ACB09</key>
+		<key>06A3763B5E4648CACBDFC3D24F8E574C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -258,24 +206,9 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>DDLogDetailKeyboardToolBar.h</string>
+			<string>MJPropertyType.h</string>
 			<key>path</key>
-			<string>DDLogger/DDLogDetailKeyboardToolBar.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0746740FF5B9FFF427811677AF74081E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>DDLogListTableViewController.m</string>
-			<key>path</key>
-			<string>DDLogger/DDLogListTableViewController.m</string>
+			<string>MJExtension/MJPropertyType.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -306,25 +239,10 @@
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>07DA009992FD7CF5A05CD1B6D49CDEBD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>AFURLResponseSerialization.h</string>
-			<key>path</key>
-			<string>AFNetworking/AFURLResponseSerialization.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>0809A3B2CF22C445F7EC34AE30CA90E8</key>
 		<dict>
 			<key>fileRef</key>
-			<string>16224C655735554CD65B502D16956E9B</string>
+			<string>6266B7E2F31F4B365C95037B5384478B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -336,7 +254,7 @@
 		<key>0851AB46957D7C0CA92149BC18D6195B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A7C22ED2DA91DB93AF1433594F5391A9</string>
+			<string>3D7DEAE017D1A1125EBE767B9372BAA1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -354,6 +272,20 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+		<key>0A08FC71C4E3B8E0F8734BCDA7CCA7CB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1F0645E7F472BBF3792E3E89B47F2E08</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>0A0BC47C7F8AD689911486EA3EFD9669</key>
 		<dict>
 			<key>containerPortal</key>
@@ -367,10 +299,25 @@
 			<key>remoteInfo</key>
 			<string>MBProgressHUD</string>
 		</dict>
+		<key>0AE53B184EF53011E9A61CB750E47EF4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>DDLoggerClient.m</string>
+			<key>path</key>
+			<string>DDLogger/DDLoggerClient.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>0AFABD28B2E5C3292603A36599055EA7</key>
 		<dict>
 			<key>fileRef</key>
-			<string>0283B8B952A2F13C579383B4A7AF516E</string>
+			<string>E7B6F3CF51CD17B834F0F3F9A31D62A4</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -380,27 +327,88 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>0B5FC39650EC9F41348F411334232B36</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MJExtensionConst.m</string>
+			<key>path</key>
+			<string>MJExtension/MJExtensionConst.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0BD2733B5F3105F8CAF5AF9659DE66F3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>UIProgressView+AFNetworking.h</string>
+			<key>path</key>
+			<string>UIKit+AFNetworking/UIProgressView+AFNetworking.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0C24DC84CCCC4BDDDEF8E3128FB22996</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>DDLogDetailKeyboardToolBar.m</string>
+			<key>path</key>
+			<string>DDLogger/DDLogDetailKeyboardToolBar.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>0C2B33BE64F0CF1C6ED2B2200953568E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F25A6679CD2884C68E727943E2D67647</string>
+			<string>0B5FC39650EC9F41348F411334232B36</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>0E4FD75ECCFD6A179057653D9BA711CD</key>
+		<key>0D2BB24E8B53C28D9B8CB0D8F03989C0</key>
 		<dict>
-			<key>fileRef</key>
-			<string>FC52F676DBA89F61D5191E3335E253F6</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>AFURLSessionManager.m</string>
+			<key>path</key>
+			<string>AFNetworking/AFURLSessionManager.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0DCEECC004EC6EE6ECEECD0B86247F76</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>AFURLRequestSerialization.h</string>
+			<key>path</key>
+			<string>AFNetworking/AFURLRequestSerialization.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>0EEF053E2411033F0FB4E5DA665FF8BA</key>
 		<dict>
@@ -412,7 +420,7 @@
 		<key>0F01A98C6ECC7B324211B606403CC65A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>FA6D00B9936219196CB506035529C5C6</string>
+			<string>CE5E5250D6FB20F623CA2068B27A4ABD</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -424,7 +432,7 @@
 		<key>104597B0B865207A6BD30C2ECDF87290</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>5BDE13EB9DB505D701B13A1DBA1F5109</string>
+			<string>71CBDC0DDF47220793D6EDD07CC1AA9F</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -455,13 +463,6 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>1050F5E599DEA3C0FA7990B9C56E4073</key>
-		<dict>
-			<key>fileRef</key>
-			<string>00D58A4B1C81F4AF9C06E29625F38F1F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>10834806BD7B412BC24F347361FA2C8E</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -478,7 +479,7 @@
 		<key>10B5AA3FFC425BAFB7A81C4B1C19CC1A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>640EACE3B10FC65CC9B0520496FA2EE1</string>
+			<string>B8CEC06F8CCEC2D2EAB510EFC1092830</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -489,10 +490,25 @@
 				</array>
 			</dict>
 		</dict>
+		<key>10DF9EE47B088DEB6DA167DA35E3E4EC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>DDLogDetailKeyboardToolBar.h</string>
+			<key>path</key>
+			<string>DDLogger/DDLogDetailKeyboardToolBar.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>11BD5AE4F92EFD5DB5772947204A678C</key>
 		<dict>
 			<key>fileRef</key>
-			<string>FFE1B9CE58ACA3E4D7061CB7091179B3</string>
+			<string>A068E5FC063467DEFCD9C2CECA3ABE92</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -506,7 +522,7 @@
 		<key>1277E87B7F9DBB23CB397E4CF40DB06E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F584307C8615A4FAB2D148DBE22D1591</string>
+			<string>1390C0D746DE6E6532B1568FD353CD4B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -550,21 +566,7 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>136FB41CEB8D026BA1B0E0C514CD90F7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>07DA009992FD7CF5A05CD1B6D49CDEBD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>13F80EAAC44904B6B7F17FB8193710AA</key>
+		<key>1390C0D746DE6E6532B1568FD353CD4B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -573,16 +575,16 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>DDLoggerClient.h</string>
+			<string>DDLogger.h</string>
 			<key>path</key>
-			<string>DDLogger/DDLoggerClient.h</string>
+			<string>DDLogger/DDLogger.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>14B10370537FCC1B65F892AF26C0031F</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>E77A1D73048805A864BEE17A7DD9A82D</string>
+			<string>982225EAC028964F789C967577F8C09B</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -613,25 +615,28 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>14F67635944C4C8A9A87FDD7CD101A2A</key>
+		<key>14CD3DFB4A25BAEFB205730FA6750025</key>
 		<dict>
 			<key>fileRef</key>
-			<string>77924A57DB9454FD82DD6D76C2B65869</string>
+			<string>EBE9D3F6F63E00E7877142360636EB8B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>157ABE81A15EEFF7F3546181DFB0DB07</key>
+		<key>14F67635944C4C8A9A87FDD7CD101A2A</key>
 		<dict>
+			<key>fileRef</key>
+			<string>53661874785857EEE591A44AF865E90A</string>
 			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>AFNetworking</string>
-			<key>target</key>
-			<string>2602F3D0DAC534568B6AD7EEA0DD1959</string>
-			<key>targetProxy</key>
-			<string>E441E2733BB95FAB6AE9F7D89C982BB5</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>16224C655735554CD65B502D16956E9B</key>
+		<key>15460ABD372C937E2A07A2FCDF98C473</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5BE255FD35C8881E50CA313EAFAD329F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>156AEEA4557714ADEC478AA984A809A7</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -640,18 +645,135 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>ICRangeUtils.m</string>
+			<string>AFNetworkReachabilityManager.m</string>
 			<key>path</key>
-			<string>ICTextView/ICRangeUtils.m</string>
+			<string>AFNetworking/AFNetworkReachabilityManager.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>157ABE81A15EEFF7F3546181DFB0DB07</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>AFNetworking</string>
+			<key>target</key>
+			<string>928353533005A4198EBDA5B700D37B64</string>
+			<key>targetProxy</key>
+			<string>E441E2733BB95FAB6AE9F7D89C982BB5</string>
+		</dict>
+		<key>158785E17DEA73093B28BFABC5E225C2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>UIImageView+AFNetworking.h</string>
+			<key>path</key>
+			<string>UIKit+AFNetworking/UIImageView+AFNetworking.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>17224E02F0E8CE2AC8EF6DDD7B535094</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>8FB222B9577F5A8522C115BB78CB7E3E</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/AFNetworking/AFNetworking-prefix.pch</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.0</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>YES</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>OTHER_LIBTOOLFLAGS</key>
+				<string></string>
+				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string></string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>18724F902143449730CA4BA55B4A4CCE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>DDLogListTableViewCell.m</string>
+			<key>path</key>
+			<string>DDLogger/DDLogListTableViewCell.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>19B9148F12A93330A8824F8D27F68A5D</key>
 		<dict>
 			<key>fileRef</key>
-			<string>0746740FF5B9FFF427811677AF74081E</string>
+			<string>41BC021F776C7A7098A06B4B050F873D</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>19E6319F6ECED7539AABBD9A211F7AEC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D58A69163401190B41960F87C26406FF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>1B082FF0BE84706D02A179239DFA29D6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MJPropertyType.m</string>
+			<key>path</key>
+			<string>MJExtension/MJPropertyType.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1B2A7C4C51BA4D96A178DFFE7C12C4E4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>MBProgressHUD.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>1B971D1C3437AC334A874AE1822B7C64</key>
 		<dict>
@@ -668,10 +790,85 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+		<key>1CD4643C398EF4CA27B22A0EBC790BB9</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>ICTextView-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1F0645E7F472BBF3792E3E89B47F2E08</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>AFNetworking.h</string>
+			<key>path</key>
+			<string>AFNetworking/AFNetworking.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1F639F9C35E94F34E24B37E0346D5C30</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>D58A69163401190B41960F87C26406FF</string>
+				<string>EBE9D3F6F63E00E7877142360636EB8B</string>
+				<string>AD81348D55B4A4B1C4B4BE90EE142482</string>
+				<string>665669473C69A3C13605FBF86E2A6267</string>
+				<string>CA1F6AECDA7C03B4D10767129AFC7FB5</string>
+				<string>859C18856EBCBFA025FC0B13E04592F5</string>
+				<string>B8F92541B615ADA08269554E75C65E4D</string>
+				<string>5BE255FD35C8881E50CA313EAFAD329F</string>
+				<string>D94CD91568B2512AC468B7E7D0C20F03</string>
+				<string>553DCD3AFA6F60860A09390CB73BF926</string>
+				<string>D1D7E5E483327958A25F18C50D872F25</string>
+				<string>158785E17DEA73093B28BFABC5E225C2</string>
+				<string>CC5BEDAA4E7CD26BA080097F4296D738</string>
+				<string>54BA179AA301FB6AEC864254280191F9</string>
+				<string>0BD2733B5F3105F8CAF5AF9659DE66F3</string>
+				<string>FD179B66EC76783C8C868A9638AA827F</string>
+				<string>495C2B84E6D82A82C40AB558CA8E5F21</string>
+				<string>EA5F2129FF67C54466E404B0963D90FC</string>
+				<string>90DBEA89EA80EA10F41FD46188B1EBAB</string>
+				<string>DAC7C3991B4F1B3677CDF4BB1189A8D6</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>UIKit</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1FD7D812150750A7758A34E835A3F723</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MJFoundation.m</string>
+			<key>path</key>
+			<string>MJExtension/MJFoundation.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>2002FC58F0D2FF4C065C79F794B34DA6</key>
 		<dict>
 			<key>fileRef</key>
-			<string>0491C8D490FADEECA82BD97C8D9ED30F</string>
+			<string>71961D7A66D23E8D45D054887BA06A0B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -682,45 +879,14 @@
 				</array>
 			</dict>
 		</dict>
-		<key>205F51216177E22CD1AE443745B8A119</key>
+		<key>2053D71CF543C3A3CC47C5409D61923C</key>
 		<dict>
 			<key>fileRef</key>
-			<string>485A4B0C5CD47A5755335A4099027F44</string>
+			<string>128AD5011BFADA37167C5F6269BB28A6</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>21782CBC95CB69ADD86742ABC9E3B2F3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>EB1BAAAB146CE585DA09A912CF4ACE2D</string>
-				<string>6076626D8E0741A4E774A86C01ACB179</string>
-				<string>06A4D17CDD7565A7D0F7CA2A182ACB09</string>
-				<string>CF5B0391263A17DEEB6EBDB101109EC8</string>
-				<string>0491C8D490FADEECA82BD97C8D9ED30F</string>
-				<string>BE60E95C3D44884820234A462F7B9097</string>
-				<string>F584307C8615A4FAB2D148DBE22D1591</string>
-				<string>13F80EAAC44904B6B7F17FB8193710AA</string>
-				<string>9005582E70F927E8BEB3F5692EF93AB9</string>
-				<string>D2524949BE38F91510392F45719D0FC2</string>
-				<string>CA4EB8570DF9D7D6F799E951B166C45D</string>
-				<string>F92E8D28A2CF75F05B19F1B8262ADD20</string>
-				<string>22EB6B884F315FC4546BC23FF27F3049</string>
-				<string>D1F73946D03AF2A97B3497BB3AA28FC5</string>
-				<string>0746740FF5B9FFF427811677AF74081E</string>
-				<string>8F2118C95A102BE0855DD803865E5AC3</string>
-				<string>43C3CE20043762C82B8376549DE09F0B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>DDLogger</string>
-			<key>path</key>
-			<string>DDLogger</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>22EB6B884F315FC4546BC23FF27F3049</key>
+		<key>217D705DCE2F50BDA2D58A6C18D430F6</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -728,86 +894,22 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>DDLogListTableViewCell.m</string>
 			<key>path</key>
-			<string>DDLogger/DDLogListTableViewCell.m</string>
+			<string>AFNetworking-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>23F5B559815FF24B03A7D5D76F19E740</key>
+		<key>23415204AA48A02959E4E5245CF96037</key>
 		<dict>
 			<key>fileRef</key>
-			<string>EE8C40D9030E87D69DACECA9FD0506F6</string>
+			<string>C761C5442EC5643BFA5B2DDFBA36A760</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2457E097FB0696E78966DB61300FDBC5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>ICTextView.m</string>
-			<key>path</key>
-			<string>ICTextView/ICTextView.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>24B41C1169F2806A7EE3257F19CE8524</key>
+		<key>2359387620C5E815BF0594BC40311734</key>
 		<dict>
 			<key>fileRef</key>
-			<string>BA9B8CA5258B2986B8ACB04287EE4E61</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2602F3D0DAC534568B6AD7EEA0DD1959</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>A903F971702871B72BEA8510BB8CC55A</string>
-			<key>buildPhases</key>
-			<array>
-				<string>F06802316DD235FBB40BC284273405D6</string>
-				<string>04F6492DF0B7A5669B29FD4F7C390666</string>
-				<string>26E101B486F95D438A3BA112B66FC59A</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>AFNetworking</string>
-			<key>productName</key>
-			<string>AFNetworking</string>
-			<key>productReference</key>
-			<string>ADCFAFC2A7D1402D2EE38DD5BE56C0E7</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>26283346858688711888BB0F76891803</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>ICRegularExpression.h</string>
-			<key>path</key>
-			<string>ICTextView/ICRegularExpression.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>263D08D54C23AAE447AC8A0E6BD02B39</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D463E697A8491671091D3A19A46E6230</string>
+			<string>0DCEECC004EC6EE6ECEECD0B86247F76</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -818,43 +920,27 @@
 				</array>
 			</dict>
 		</dict>
-		<key>26E101B486F95D438A3BA112B66FC59A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>DF180E88C3E1BF35D93F31300FA4BC65</string>
-				<string>3A60E1AA43C09B68A26EF2579E98D725</string>
-				<string>5DFB5A46A57DE37A4FEAD5E01C998A05</string>
-				<string>DEA1065191A84F4399632F5DC5E5358B</string>
-				<string>96C7E8AA9881FF1B1EC3EED102DF287D</string>
-				<string>86A345B686DF337CC22C577DFD08F6D6</string>
-				<string>E6E2E57ADE1578E3ED86B1387009F3F8</string>
-				<string>F3B32DA5C47A34B5B2609E632FFA8557</string>
-				<string>0E4FD75ECCFD6A179057653D9BA711CD</string>
-				<string>136FB41CEB8D026BA1B0E0C514CD90F7</string>
-				<string>5675E7169016543A92985F6EBC0C1411</string>
-				<string>C2D9B8F82D04BDD22AE84A18C08A19C9</string>
-				<string>9C5A2CD706CA4688C9F4BC6D63BAB935</string>
-				<string>04A416BF54F937DAE3D19FE50DA72202</string>
-				<string>58B3A1ECCB7C9B804E6E041C7D5FBFAC</string>
-				<string>263D08D54C23AAE447AC8A0E6BD02B39</string>
-				<string>E38C00106AD769DAA4E938F8878B7A7D</string>
-				<string>9ECCBA3A8092E326BE8CAD2075001BB2</string>
-				<string>C4D34910F4D6673E3B9E99D7A781DC6C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>270D0D7DCF78170B1F481DDF511C07D6</key>
+		<key>24B41C1169F2806A7EE3257F19CE8524</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F4373E12441994A0B864D0B4B40A6D70</string>
+			<string>407A122FF9881124CBF6DEE326C620C3</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>25516CB12FAEACE25CBC20DB678EB561</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>AFURLSessionManager.h</string>
+			<key>path</key>
+			<string>AFNetworking/AFURLSessionManager.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>272643F56613CA0D336AE3DBF19DC404</key>
 		<dict>
@@ -869,45 +955,10 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2726F5F28196EDECDB2335944D00071A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>UIAlertView+AFNetworking.h</string>
-			<key>path</key>
-			<string>UIKit+AFNetworking/UIAlertView+AFNetworking.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>277E480536815F731EEE670E9BDD8F55</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Reachability.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>27AFE404AA450432596D55D44B871E62</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E8FA0CF6B61BDD70E9D4B8FEA692B83B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>28D5E64861C74DB483E72DE4E35E4AA0</key>
 		<dict>
 			<key>fileRef</key>
-			<string>8BB554D9AF36844B8232EDFDE4D3DC57</string>
+			<string>9236B3014CF93D949739028B49EDBCDB</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -925,39 +976,31 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2ADD8E9A7F15DCB581C5B4732FFC4353</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>UIProgressView+AFNetworking.h</string>
-			<key>path</key>
-			<string>UIKit+AFNetworking/UIProgressView+AFNetworking.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2BD3B9D2C189221DD0837EBD6325A99F</key>
+		<key>2A79423E8707E26D1FF5C4AA8A7A3185</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>4FCA3457F6C8648206FDFCFFF74B35F5</string>
-				<string>A31A26C30A52F99CA745B56D74A2CDA6</string>
+				<string>1F0645E7F472BBF3792E3E89B47F2E08</string>
+				<string>9238CC2B98890CAAD4D69BA02D81EAA3</string>
+				<string>0354928FB04F7E7E5CB1B600FC182BFF</string>
+				<string>7682852C66C050A3B8214B34B4740C74</string>
+				<string>B9802BB338660909CC47899741C53865</string>
+				<string>6CF86ECBD7EF6197C14E103FD26A3C31</string>
+				<string>1F639F9C35E94F34E24B37E0346D5C30</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Reachability</string>
+			<string>AFNetworking</string>
+			<key>path</key>
+			<string>AFNetworking</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>2C82F62335C30ACE5CB5AD319D50EA70</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>5BDE13EB9DB505D701B13A1DBA1F5109</string>
+			<string>71CBDC0DDF47220793D6EDD07CC1AA9F</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -1012,7 +1055,7 @@
 		<key>2EDB111B41EBA9F2B002DAD15CB26687</key>
 		<dict>
 			<key>fileRef</key>
-			<string>8AC989F9CA6FBE023DEF31362621E202</string>
+			<string>BD5C690DB3B43C0DD49537911B6FC40A</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1023,20 +1066,41 @@
 				</array>
 			</dict>
 		</dict>
-		<key>330B7F33EF2547073E4DB1271F6034F8</key>
+		<key>311E5200832E4AE174A193851A2C6317</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CCD83876CCA8E8F79460FE24C1D1BF3E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>314F75B7F4C5BAE331AD04CB73C3CFE9</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>ZJDataCacheManager.h</string>
+			<string>ZJCacheDao.m</string>
 			<key>path</key>
-			<string>ZJCache/ZJCache/ZJDataCacheManager.h</string>
+			<string>ZJCache/ZJCache/ZJCacheDao.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>326A543AD4E39A2DAECA1CD385E3AEA2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AD81348D55B4A4B1C4B4BE90EE142482</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>336D910CCEE0EF72765AF5FF0F2FF036</key>
 		<dict>
@@ -1054,6 +1118,32 @@
 			<string>PBXGroup</string>
 			<key>name</key>
 			<string>iOS</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>33B6DCDE560634ED991A18B3804974F8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>DDLogger.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>34401F03436016EEE50DC0C20068848A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>DDLogger-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1077,20 +1167,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>350E571A2952B1C74155BC5F971F2EA6</key>
+		<key>3511AE7ADBB71D05565854F0E70B7D08</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>25516CB12FAEACE25CBC20DB678EB561</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.xib</string>
-			<key>name</key>
-			<string>DDLogListTableViewCell.xib</string>
-			<key>path</key>
-			<string>DDLogger/DDLogListTableViewCell.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>3755813E806991794D335BE59E0D5786</key>
 		<dict>
@@ -1118,6 +1207,41 @@
 			<string>Pods-acknowledgements.markdown</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>38014EDE9F8AA70EECF193F3C8FF9F72</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>NSString+MJExtension.h</string>
+			<key>path</key>
+			<string>MJExtension/NSString+MJExtension.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>380AC5417339DDEA72B412A21F7A920C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Reachability.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>38EEA9ED6B922946C54AD6BAC93B73AD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>FD179B66EC76783C8C868A9638AA827F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>38FE856E1AE81A94E44A9DAE88AEC8F9</key>
 		<dict>
@@ -1156,30 +1280,10 @@
 			<key>remoteInfo</key>
 			<string>DDLogger</string>
 		</dict>
-		<key>3940747A9B6BDD5DC55DFD9ECD8DC300</key>
+		<key>3939531EB270B4145C7ADFBAB2E5695F</key>
 		<dict>
 			<key>fileRef</key>
-			<string>E309FBFECB8A9B0C7F2478361BEB50C7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>395F8129CEA683851F6DA44D830DD917</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Reachability.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3A60E1AA43C09B68A26EF2579E98D725</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D81493787EA17D7BE4EEA78B4507EE74</string>
+			<string>CA1F6AECDA7C03B4D10767129AFC7FB5</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1190,17 +1294,10 @@
 				</array>
 			</dict>
 		</dict>
-		<key>3B1575769C2E1566036FFF2F22917E72</key>
-		<dict>
-			<key>fileRef</key>
-			<string>128AD5011BFADA37167C5F6269BB28A6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>3CAB03CE944BBD5BD312744F4DC4ED0A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B1B6624E233924D2E3FF95002DBC5C36</string>
+			<string>8D4986D3CCEE6317A88C74AF8040284A</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1226,32 +1323,23 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>3CE08E61AA9A53953E30A442440E4D8F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>74057484F84A81D68AE48866699B3ADD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3D234C594116838501F3A374468F9CF2</key>
+		<key>3D7DEAE017D1A1125EBE767B9372BAA1</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>ZJCacheDao.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>ZJCache/ZJCache/ZJCacheDao.h</string>
+			<string>ICTextView-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>3E180EC06237D164BB149BC29C41AA19</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D64C166A8E9D9219571E9FFB17CD39CA</string>
+			<string>DED5A573D697074455E03CCAF2DCD2D2</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1262,7 +1350,22 @@
 				</array>
 			</dict>
 		</dict>
-		<key>3F68FA8CFD30A4C2466A708211DD7624</key>
+		<key>3EAED088CFABA567176E11F6F5363FA5</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>NSObject+MJKeyValue.m</string>
+			<key>path</key>
+			<string>MJExtension/NSObject+MJKeyValue.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3F63DA875E939862B152986BC575C948</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1271,9 +1374,39 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>AFNetworking.h</string>
+			<string>MJExtension.h</string>
 			<key>path</key>
-			<string>AFNetworking/AFNetworking.h</string>
+			<string>MJExtension/MJExtension.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>405470B5A984A33EE2831884E1BAFDFC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>ICTextView.m</string>
+			<key>path</key>
+			<string>ICTextView/ICTextView.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>407A122FF9881124CBF6DEE326C620C3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>ZJDataCacheManager.m</string>
+			<key>path</key>
+			<string>ZJCache/ZJCache/ZJDataCacheManager.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1288,7 +1421,22 @@
 			<key>targetProxy</key>
 			<string>4962BA22CFD7FD48711356C39BD5F977</string>
 		</dict>
-		<key>4138F414435F44CB9AA2123008FEB1EE</key>
+		<key>41BC021F776C7A7098A06B4B050F873D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>DDLogListTableViewController.m</string>
+			<key>path</key>
+			<string>DDLogger/DDLogListTableViewController.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>41FD9310283B49220402FD0853A54C8E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1297,29 +1445,16 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>ZJUserDefaultCacheDao.h</string>
+			<string>ZJDataCacheManager.h</string>
 			<key>path</key>
-			<string>ZJCache/ZJCache/ZJUserDefaultCacheDao.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>41EF7E6ABE508472F3E445AE551F5AA1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>DDLogger-dummy.m</string>
+			<string>ZJCache/ZJCache/ZJDataCacheManager.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>4243899B3D6D421287C7B88535E66176</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2457E097FB0696E78966DB61300FDBC5</string>
+			<string>405470B5A984A33EE2831884E1BAFDFC</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1328,147 +1463,29 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
-		<key>43C3CE20043762C82B8376549DE09F0B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>87EE724D377F7D36F759135AF91040EA</string>
-				<string>41EF7E6ABE508472F3E445AE551F5AA1</string>
-				<string>6A32B820A221B60FA6548BEFCCD0AA31</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/DDLogger</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>43E2B22CDD34DC9E3AC42491D4E0C7B6</key>
+		<key>43098B12DF5546CB576986E68DBCAFCA</key>
 		<dict>
 			<key>fileRef</key>
-			<string>85184E554943840EA0DC3D8F7CD7C5BE</string>
+			<string>156AEEA4557714ADEC478AA984A809A7</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>442B1B4ED9DE0B1D281C4B5968AF287F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>5142E11835A8334A7B17E15B763C2D14</string>
-				<string>94E21B9018003DE4FC4ECE1C35F54481</string>
-				<string>C23A71BE42DC352454C645CAF87D9B82</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/ZJCache</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>442F1FDB14D892798D35EB058C36DB18</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>0283B8B952A2F13C579383B4A7AF516E</string>
-				<string>E061B6F37FEC21B7D3A4A398C867A5C4</string>
-				<string>DF9F11DBE1CBB3D53217D32BBED4F551</string>
-				<string>8AC989F9CA6FBE023DEF31362621E202</string>
-				<string>F25A6679CD2884C68E727943E2D67647</string>
-				<string>EE8D3A70CB3D4D10E0E93C841AD072B6</string>
-				<string>B8717E43629CC435DF8F769B66D0D373</string>
-				<string>460EA5C067C52D4223A27CB6995D5FE4</string>
-				<string>D95D6E62F1488BB52482EBAA16B792CA</string>
-				<string>E65DEC05B6DD023D81D31CBB1851FC93</string>
-				<string>FCE6644979A3696F76CEA3724EEC9B81</string>
-				<string>DA75385F37E7E21AF43663B4B0CA3B6C</string>
-				<string>85DA013F484E516D67AC1202D1C78EAC</string>
-				<string>8BB554D9AF36844B8232EDFDE4D3DC57</string>
-				<string>B5C38708473D34826544B739C63E056A</string>
-				<string>640EACE3B10FC65CC9B0520496FA2EE1</string>
-				<string>77924A57DB9454FD82DD6D76C2B65869</string>
-				<string>FFE1B9CE58ACA3E4D7061CB7091179B3</string>
-				<string>F1EE87250BF8874A0D910C3FA2088AB5</string>
-				<string>B1B6624E233924D2E3FF95002DBC5C36</string>
-				<string>E6DDAC07F422C3AB91884DB2DCCF137D</string>
-				<string>7E9B1F6D4BB541C182B337539384F457</string>
-				<string>C710C235027D166CDD1FA0C392C26455</string>
-				<string>E09EFAAFC01270126BE5D10CB0021FC4</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>MJExtension</string>
-			<key>path</key>
-			<string>MJExtension</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4462B467856EA9B54AA56346547D3DC9</key>
+		<key>452BFECE06B3B96C604777F108C8F7E7</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>MBProgressHUD.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>44B3AC49B80761781349E900636A6926</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>UIWebView+AFNetworking.h</string>
+			<string>ZJUserDefaultCacheDao.m</string>
 			<key>path</key>
-			<string>UIKit+AFNetworking/UIWebView+AFNetworking.h</string>
+			<string>ZJCache/ZJCache/ZJUserDefaultCacheDao.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>45550666AF44BEA250B35407A0E5B8E6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>B2073577D6F71F79C6484992F5357905</string>
-				<string>85184E554943840EA0DC3D8F7CD7C5BE</string>
-				<string>D81493787EA17D7BE4EEA78B4507EE74</string>
-				<string>7D4A122477CE37970F0E524F6DB1D612</string>
-				<string>4DA6488EA3CA7A2FF6394A7A059B3350</string>
-				<string>EE8C40D9030E87D69DACECA9FD0506F6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>NSURLConnection</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>460EA5C067C52D4223A27CB6995D5FE4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MJProperty.h</string>
-			<key>path</key>
-			<string>MJExtension/MJProperty.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>463CDFAC4A20B170015D91D667C8CE31</key>
+		<key>461B2D39DE4A543680C748EBF933DA66</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1477,7 +1494,7 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>MBProgressHUD.m</string>
+			<string>Reachability.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1494,16 +1511,35 @@
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>485A4B0C5CD47A5755335A4099027F44</key>
+		<key>487EF26E25CE2CB17E713A4FF995D01E</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>380AC5417339DDEA72B412A21F7A920C</string>
+				<string>461B2D39DE4A543680C748EBF933DA66</string>
+				<string>C38A54C979EA6089449E47AD964D9C7C</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Reachability</string>
+			<key>path</key>
+			<string>Reachability</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>495C2B84E6D82A82C40AB558CA8E5F21</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>UIRefreshControl+AFNetworking.h</string>
 			<key>path</key>
-			<string>AFNetworking-dummy.m</string>
+			<string>UIKit+AFNetworking/UIRefreshControl+AFNetworking.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1523,7 +1559,7 @@
 		<key>49D0BF0E9CA2E0064DFCFC7BC63047F7</key>
 		<dict>
 			<key>fileRef</key>
-			<string>3D234C594116838501F3A374468F9CF2</string>
+			<string>CDF042033FABEBE7C356823F6D325B39</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1534,17 +1570,23 @@
 				</array>
 			</dict>
 		</dict>
-		<key>4AD68C44057762C862EB902673B98C56</key>
+		<key>4A77942D095454D55BAA9CF92E8E32AB</key>
 		<dict>
-			<key>fileRef</key>
-			<string>62D17CB1CE0E78ACF219FD2FC9927222</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>ddlog_check_icon_selected@2x.png</string>
+			<key>path</key>
+			<string>DDLogger/ddlog_check_icon_selected@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>4B116BD6A267CB5E39BA902A628D59E3</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>87EE724D377F7D36F759135AF91040EA</string>
+			<string>33B6DCDE560634ED991A18B3804974F8</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -1575,33 +1617,12 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>4DA6488EA3CA7A2FF6394A7A059B3350</key>
+		<key>4BA19F7DD8F9FDA648137B2CE89E7588</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>859C18856EBCBFA025FC0B13E04592F5</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>AFURLConnectionOperation.h</string>
-			<key>path</key>
-			<string>AFNetworking/AFURLConnectionOperation.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4DCB6B32BA8DCF0A9ACED354ECE08A10</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Reachability-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>4E762F23EC34ED4A6FF3312D84E33A40</key>
 		<dict>
@@ -1616,22 +1637,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>4FCA3457F6C8648206FDFCFFF74B35F5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>AFNetworkReachabilityManager.h</string>
-			<key>path</key>
-			<string>AFNetworking/AFNetworkReachabilityManager.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5142E11835A8334A7B17E15B763C2D14</key>
+		<key>4FB811039971FE907D908DF12F83D2EC</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1640,21 +1646,67 @@
 			<key>lastKnownFileType</key>
 			<string>text.xcconfig</string>
 			<key>path</key>
-			<string>ZJCache.xcconfig</string>
+			<string>ICTextView.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5430679E78D60E68A98B377528C9F07F</key>
+		<key>508C962B3E08E8DA04956BF349A3CDFD</key>
 		<dict>
-			<key>children</key>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
 			<array>
-				<string>6F2ED6B7C799A459257C52042837708E</string>
-				<string>D017D6017BCFAF051E714B50A07C02E1</string>
+				<string>2053D71CF543C3A3CC47C5409D61923C</string>
+				<string>6083F51989A0009C740D92767F4DC1FC</string>
+				<string>00F09DB5E05D1208F27161E2F016FE36</string>
+				<string>022B549F10007177A43FAB1DD5114F7D</string>
+				<string>CE8965366A3B07A6C0615055A31B8B83</string>
 			</array>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>53661874785857EEE591A44AF865E90A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>Security</string>
+			<string>NSObject+MJCoding.m</string>
+			<key>path</key>
+			<string>MJExtension/NSObject+MJCoding.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>548AF2A68B409087F6DB07D7A4661833</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>ZJCache-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>54BA179AA301FB6AEC864254280191F9</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>UIKit+AFNetworking.h</string>
+			<key>path</key>
+			<string>UIKit+AFNetworking/UIKit+AFNetworking.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1670,6 +1722,21 @@
 			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/MobileCoreServices.framework</string>
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>553DCD3AFA6F60860A09390CB73BF926</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>UIButton+AFNetworking.m</string>
+			<key>path</key>
+			<string>UIKit+AFNetworking/UIButton+AFNetworking.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>55BBF23E92085EE75CDACC35525FB19C</key>
 		<dict>
@@ -1689,33 +1756,55 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>5675E7169016543A92985F6EBC0C1411</key>
+		<key>57A9140060F12E43C42409C7AA06B270</key>
 		<dict>
-			<key>fileRef</key>
-			<string>E00EE38FF09501052C896613ACCB2BE1</string>
+			<key>children</key>
+			<array>
+				<string>2A79423E8707E26D1FF5C4AA8A7A3185</string>
+				<string>CABE57E8DE939F0D6DDE981527EF72FE</string>
+				<string>003CF6B62924FB82F9B1D91CD136E148</string>
+				<string>B3C38FCE757EA4F18EA20514E0C2CEAE</string>
+				<string>D54193A095E53ECCB76538943F0877C5</string>
+				<string>487EF26E25CE2CB17E713A4FF995D01E</string>
+				<string>CD5C04C7EAA09CB333E1B92CDA994030</string>
+				<string>E84EB157F237C00F7B8E71E63814B7DA</string>
+			</array>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>58B3A1ECCB7C9B804E6E041C7D5FBFAC</key>
+		<key>588FDC887AE1B7FAE292D23C04679391</key>
 		<dict>
-			<key>fileRef</key>
-			<string>A4F58F114BC8E7DA7651D9CAC3B59F3F</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>AFURLResponseSerialization.h</string>
+			<key>path</key>
+			<string>AFNetworking/AFURLResponseSerialization.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5984488459F594D76DFFB20C24822B77</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>ZJFileCacheDao.m</string>
+			<key>path</key>
+			<string>ZJCache/ZJCache/ZJFileCacheDao.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>5A6B1E07912E48C49E2E6E59701001AE</key>
 		<dict>
@@ -1730,27 +1819,7 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>5BDE13EB9DB505D701B13A1DBA1F5109</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>MJExtension.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5CB847381DE56E2B338F95A8FC79E620</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E6DDAC07F422C3AB91884DB2DCCF137D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5D6704C19FAAB8416737BF7422D6B0EC</key>
+		<key>5BE255FD35C8881E50CA313EAFAD329F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1759,16 +1828,23 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>ZJUserDefaultCacheDao.m</string>
+			<string>UIActivityIndicatorView+AFNetworking.m</string>
 			<key>path</key>
-			<string>ZJCache/ZJCache/ZJUserDefaultCacheDao.m</string>
+			<string>UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5DFB5A46A57DE37A4FEAD5E01C998A05</key>
+		<key>5CB847381DE56E2B338F95A8FC79E620</key>
 		<dict>
 			<key>fileRef</key>
-			<string>E7F98CED0CD4C601318C9C1DCB3D21D7</string>
+			<string>FF4A314F7EE701DE3ED8D9FC09D8CF24</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>5D52DB6DF2E6C24CECB0015A9177A2E1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0BD2733B5F3105F8CAF5AF9659DE66F3</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1795,14 +1871,14 @@
 		<key>5E6AD069AEFAE5E8E3538B532F09674E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B5C38708473D34826544B739C63E056A</string>
+			<string>F67632B1DA5F4E1E79142306D97CF103</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
 		<key>5EB4F27B76513AE918BA5AE0868E87C8</key>
 		<dict>
 			<key>fileRef</key>
-			<string>8A930E1F2AFE5E57DA9813B479B51AAE</string>
+			<string>6674A2CE4582522FA979CE135D16621F</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1813,19 +1889,20 @@
 				</array>
 			</dict>
 		</dict>
-		<key>5EF39A9E007362DAEE60D8AA81E6D643</key>
+		<key>5EF8AE62EB46D2C0E4BCEBECFE700074</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>E7F98CED0CD4C601318C9C1DCB3D21D7</string>
-				<string>7580E2E9D064A7CB6600482C190FCC76</string>
-				<string>E00EE38FF09501052C896613ACCB2BE1</string>
-				<string>831D6BB7EA8E528CA5F86D4D4BF887C0</string>
+				<string>8F73E49BC39BFC4F6F3B3026A12D52B5</string>
+				<string>548AF2A68B409087F6DB07D7A4661833</string>
+				<string>ADADC2D49AB851EBDECC68A4D03E0A12</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>NSURLSession</string>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/ZJCache</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1870,20 +1947,12 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>6076626D8E0741A4E774A86C01ACB179</key>
+		<key>6083F51989A0009C740D92767F4DC1FC</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>62D17CB1CE0E78ACF219FD2FC9927222</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>DDLogConsoleView.m</string>
-			<key>path</key>
-			<string>DDLogger/DDLogConsoleView.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>61D3D263146EF150595EAD54ACEEAC4F</key>
 		<dict>
@@ -1908,6 +1977,21 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+		<key>6266B7E2F31F4B365C95037B5384478B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>ICRangeUtils.m</string>
+			<key>path</key>
+			<string>ICTextView/ICRangeUtils.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>62D17CB1CE0E78ACF219FD2FC9927222</key>
 		<dict>
 			<key>isa</key>
@@ -1924,11 +2008,11 @@
 		<key>630E7EB6AA410EB4E3F0AE39B187CF52</key>
 		<dict>
 			<key>fileRef</key>
-			<string>85DA013F484E516D67AC1202D1C78EAC</string>
+			<string>1B082FF0BE84706D02A179239DFA29D6</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>640EACE3B10FC65CC9B0520496FA2EE1</key>
+		<key>6369814BF97FC5F72E445C136D46159E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1937,31 +2021,16 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>NSObject+MJCoding.h</string>
+			<string>DDLogListTableViewCell.h</string>
 			<key>path</key>
-			<string>MJExtension/NSObject+MJCoding.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6424C32408C414B19BC61BF91BA1C154</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>ZJObjectSingleton.h</string>
-			<key>path</key>
-			<string>ZJUtils/ZJUtils/ZJObjectSingleton.h</string>
+			<string>DDLogger/DDLogListTableViewCell.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>64E0EA84B60F59B61F4843FB859C00B7</key>
 		<dict>
 			<key>fileRef</key>
-			<string>13F80EAAC44904B6B7F17FB8193710AA</string>
+			<string>ED55AC99674700478F9D7499AE0E88CF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1972,18 +2041,16 @@
 				</array>
 			</dict>
 		</dict>
-		<key>659AED86DBCC36B140144C7FA31579E0</key>
+		<key>64F4C5C07DC186259616A19F7927DE66</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>ZJCommonMacros.h</string>
+			<string>ddlog_check_icon_normal@2x.png</string>
 			<key>path</key>
-			<string>ZJUtils/ZJUtils/ZJCommonMacros.h</string>
+			<string>DDLogger/ddlog_check_icon_normal@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1994,7 +2061,7 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>66D9CD26A4092CBDB884429E89A8F1AA</key>
+		<key>665669473C69A3C13605FBF86E2A6267</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2003,9 +2070,35 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>UIAlertView+AFNetworking.m</string>
+			<string>AFImageDownloader.m</string>
 			<key>path</key>
-			<string>UIKit+AFNetworking/UIAlertView+AFNetworking.m</string>
+			<string>UIKit+AFNetworking/AFImageDownloader.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6674A2CE4582522FA979CE135D16621F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MBProgressHUD.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>67F070BCEEFFE94BBDD2391172C602F1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MJExtension-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2079,7 +2172,7 @@
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>6A32B820A221B60FA6548BEFCCD0AA31</key>
+		<key>6A691906B72B6FE8318F38D8C2BC9A32</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2087,47 +2180,19 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>DDLoggerManager.h</string>
 			<key>path</key>
-			<string>DDLogger-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6A5FEE08576E3E21CFFD0152BD48CB71</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>AFNetworking-prefix.pch</string>
+			<string>DDLogger/DDLoggerManager.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>6B14539A246CB1451FB65831FBA24CCA</key>
 		<dict>
 			<key>fileRef</key>
-			<string>CF5B0391263A17DEEB6EBDB101109EC8</string>
+			<string>0C24DC84CCCC4BDDDEF8E3128FB22996</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>6C2CDC79E86FEF752219F8556D33A4B2</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F9A26682F48C345CE6CF618EAA8C2D28</string>
-				<string>A7C22ED2DA91DB93AF1433594F5391A9</string>
-				<string>EB08C762A95EEDAFC7E3B6621EB3D4D3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/ICTextView</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>6C3838C54C24104F00E412F77B67617E</key>
 		<dict>
@@ -2156,42 +2221,58 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>6F2ED6B7C799A459257C52042837708E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>AFSecurityPolicy.h</string>
-			<key>path</key>
-			<string>AFNetworking/AFSecurityPolicy.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>70024ABAB8E1999201CCC7FBE3EB6CCD</key>
+		<key>6CF86ECBD7EF6197C14E103FD26A3C31</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>8A930E1F2AFE5E57DA9813B479B51AAE</string>
-				<string>463CDFAC4A20B170015D91D667C8CE31</string>
-				<string>E0AD0D5F753D42D393D93AF8FF1E1CCE</string>
+				<string>8FB222B9577F5A8522C115BB78CB7E3E</string>
+				<string>217D705DCE2F50BDA2D58A6C18D430F6</string>
+				<string>78E51D91377DA109E9E572366C3EEDD7</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>MBProgressHUD</string>
+			<string>Support Files</string>
 			<key>path</key>
-			<string>MBProgressHUD</string>
+			<string>../Target Support Files/AFNetworking</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6EC97BDB3FC508526F9E388095A7DDCC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>158785E17DEA73093B28BFABC5E225C2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>7021200703F9A72769C5D83B8FC16009</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>1B2A7C4C51BA4D96A178DFFE7C12C4E4</string>
+				<string>A1247781CB6226A36EA1A0BD7C3DF0BC</string>
+				<string>8177E19D5111332C306E91BBD971D8F6</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/MBProgressHUD</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>70CBC3DEA9F0D6479D7913A204A39A09</key>
 		<dict>
 			<key>fileRef</key>
-			<string>22EB6B884F315FC4546BC23FF27F3049</string>
+			<string>18724F902143449730CA4BA55B4A4CCE</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -2212,7 +2293,7 @@
 		<key>716E055A086EE0D4AA4DB6B0CE5296B4</key>
 		<dict>
 			<key>fileRef</key>
-			<string>330B7F33EF2547073E4DB1271F6034F8</string>
+			<string>41FD9310283B49220402FD0853A54C8E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2223,10 +2304,38 @@
 				</array>
 			</dict>
 		</dict>
+		<key>71961D7A66D23E8D45D054887BA06A0B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>DDLogDetailViewController.h</string>
+			<key>path</key>
+			<string>DDLogger/DDLogDetailViewController.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>71CBDC0DDF47220793D6EDD07CC1AA9F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>MJExtension.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>73AE7D83F4BFE180A3E23BB7DE5A730E</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>F9A26682F48C345CE6CF618EAA8C2D28</string>
+			<string>4FB811039971FE907D908DF12F83D2EC</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -2257,77 +2366,144 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>74057484F84A81D68AE48866699B3ADD</key>
+		<key>743E0AD20D2609C18859594FDAF2B7C6</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>children</key>
+			<array>
+				<string>64F4C5C07DC186259616A19F7927DE66</string>
+				<string>8E67A1CD8C53468B082828E6C0EE3218</string>
+				<string>4A77942D095454D55BAA9CF92E8E32AB</string>
+				<string>CC81A25A1B6383A655F264CFEE3D382E</string>
+				<string>E98336E8AC56DF1D85B150C3458E3F37</string>
+				<string>7610A6922A0A5AD64330A684F22F4ADB</string>
+				<string>77D885401AAE95D4CA97C0A69C276A64</string>
+			</array>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>PBXGroup</string>
 			<key>name</key>
-			<string>AFURLRequestSerialization.m</string>
-			<key>path</key>
-			<string>AFNetworking/AFURLRequestSerialization.m</string>
+			<string>Resources</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7580E2E9D064A7CB6600482C190FCC76</key>
+		<key>7595FEB306174F7CEB672DFCE54047C1</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>AFHTTPSessionManager.m</string>
+			<string>AFSecurityPolicy.h</string>
 			<key>path</key>
-			<string>AFNetworking/AFHTTPSessionManager.m</string>
+			<string>AFNetworking/AFSecurityPolicy.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>75A3F557B88C88E1861482F1BC5D7D09</key>
+		<key>7610A6922A0A5AD64330A684F22F4ADB</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>file.xib</string>
 			<key>name</key>
-			<string>ZJCacheDao.m</string>
+			<string>DDLogListTableViewCell.xib</string>
 			<key>path</key>
-			<string>ZJCache/ZJCache/ZJCacheDao.m</string>
+			<string>DDLogger/DDLogListTableViewCell.xib</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>764A917183297280E7F02642D7C8047C</key>
 		<dict>
 			<key>fileRef</key>
-			<string>FCE6644979A3696F76CEA3724EEC9B81</string>
+			<string>AE7CC35F5EC36453DF4BCB5A55C4961B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
 		<key>765B0E87A3E2BB93FA8E78C29D8BE335</key>
 		<dict>
 			<key>fileRef</key>
-			<string>6076626D8E0741A4E774A86C01ACB179</string>
+			<string>A559087BB24EE24B362C13D85C895942</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>77924A57DB9454FD82DD6D76C2B65869</key>
+		<key>7682852C66C050A3B8214B34B4740C74</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>7595FEB306174F7CEB672DFCE54047C1</string>
+				<string>CCD83876CCA8E8F79460FE24C1D1BF3E</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Security</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>77CF2A7107BC61A2E90025871305961D</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>17224E02F0E8CE2AC8EF6DDD7B535094</string>
+				<string>CF42542529F689B52406696B5784E1F9</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>77D885401AAE95D4CA97C0A69C276A64</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>file.xib</string>
 			<key>name</key>
-			<string>NSObject+MJCoding.m</string>
+			<string>DDLogListTableViewController.xib</string>
 			<key>path</key>
-			<string>MJExtension/NSObject+MJCoding.m</string>
+			<string>DDLogger/DDLogListTableViewController.xib</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>78940A6980F359C4304C695EF6E67C5D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>553DCD3AFA6F60860A09390CB73BF926</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>78E51D91377DA109E9E572366C3EEDD7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>AFNetworking-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>792883CE8EAA34C6C140709C3ECC833F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>AFNetworkReachabilityManager.h</string>
+			<key>path</key>
+			<string>AFNetworking/AFNetworkReachabilityManager.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2358,7 +2534,7 @@
 		<key>7A182AEDFD7D032524DEF8BC22065922</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B86C9715D0CB71E5504B1908724D038F</string>
+			<string>5984488459F594D76DFFB20C24822B77</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -2381,7 +2557,7 @@
 		<key>7AD11479CD234AC8EC0653340C92542C</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>5142E11835A8334A7B17E15B763C2D14</string>
+			<string>8F73E49BC39BFC4F6F3B3026A12D52B5</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -2412,21 +2588,6 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>7AEF2A8315817DFA32F98611B60CA231</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.xib</string>
-			<key>name</key>
-			<string>DDLogDetailViewController.xib</string>
-			<key>path</key>
-			<string>DDLogger/DDLogDetailViewController.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>7BAA455D321F8B5154E6F8ACB7613DD4</key>
 		<dict>
 			<key>explicitFileType</key>
@@ -2441,21 +2602,6 @@
 			<string>libZJCache.a</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>7C50AEDAF1763E1E8EF5A705DC524622</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.xib</string>
-			<key>name</key>
-			<string>DDLogListTableViewController.xib</string>
-			<key>path</key>
-			<string>DDLogger/DDLogListTableViewController.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>7CC74EC8D3E00957766EC9083D569704</key>
 		<dict>
@@ -2496,43 +2642,13 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>7D0563DF4AB604174BAB96755D6A245B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>UIRefreshControl+AFNetworking.m</string>
-			<key>path</key>
-			<string>UIKit+AFNetworking/UIRefreshControl+AFNetworking.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7D4A122477CE37970F0E524F6DB1D612</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>AFHTTPRequestOperationManager.m</string>
-			<key>path</key>
-			<string>AFNetworking/AFHTTPRequestOperationManager.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>7DB346D0F39D3F0E887471402A8071AB</key>
 		<dict>
 			<key>children</key>
 			<array>
 				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
 				<string>F4CDA5FA9197A41E0081E84F932906EB</string>
-				<string>F75A4253699A8A8D78A31FC4313C6AEF</string>
+				<string>57A9140060F12E43C42409C7AA06B270</string>
 				<string>34517A600631C9F128947B0F883B9533</string>
 				<string>037C0CA694176A3C0915F62C9D20B3E6</string>
 			</array>
@@ -2541,35 +2657,12 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7E9B1F6D4BB541C182B337539384F457</key>
+		<key>7F0578A0258E02384F6229C678E60D31</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>EA5F2129FF67C54466E404B0963D90FC</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NSString+MJExtension.h</string>
-			<key>path</key>
-			<string>MJExtension/NSString+MJExtension.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>80D0F5D4A83DC79541368D194797D167</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>UIButton+AFNetworking.h</string>
-			<key>path</key>
-			<string>UIKit+AFNetworking/UIButton+AFNetworking.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>810976699CF3EA1A686348AE16873352</key>
 		<dict>
@@ -2588,7 +2681,7 @@
 		<key>812E73C5404460C5B986E99E515F9E7C</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F92E8D28A2CF75F05B19F1B8262ADD20</string>
+			<string>6369814BF97FC5F72E445C136D46159E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2598,6 +2691,34 @@
 					<string>Project</string>
 				</array>
 			</dict>
+		</dict>
+		<key>8177E19D5111332C306E91BBD971D8F6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MBProgressHUD-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>81793A09BC1A021B01E5D688AC4255F7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>AFHTTPSessionManager.h</string>
+			<key>path</key>
+			<string>AFNetworking/AFHTTPSessionManager.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>82545422EA227BCA3007C0D65D904AA1</key>
 		<dict>
@@ -2617,7 +2738,7 @@
 		<key>825866C22CD5AD119EE9DEBD630E3BC2</key>
 		<dict>
 			<key>fileRef</key>
-			<string>06A4D17CDD7565A7D0F7CA2A182ACB09</string>
+			<string>10DF9EE47B088DEB6DA167DA35E3E4EC</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2628,25 +2749,10 @@
 				</array>
 			</dict>
 		</dict>
-		<key>82A0DE9795E25C57D014C28B87E2DEB4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>AFNetworkActivityIndicatorManager.h</string>
-			<key>path</key>
-			<string>UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>82FC12F67E83874B93592218E9FB4CA0</key>
 		<dict>
 			<key>fileRef</key>
-			<string>463CDFAC4A20B170015D91D667C8CE31</string>
+			<string>8C086A44243A69BF1738B74E2B0E8EDC</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2655,84 +2761,10 @@
 				<string>-DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
 		</dict>
-		<key>831D6BB7EA8E528CA5F86D4D4BF887C0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>AFURLSessionManager.m</string>
-			<key>path</key>
-			<string>AFNetworking/AFURLSessionManager.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>85184E554943840EA0DC3D8F7CD7C5BE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>AFHTTPRequestOperation.m</string>
-			<key>path</key>
-			<string>AFNetworking/AFHTTPRequestOperation.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>85DA013F484E516D67AC1202D1C78EAC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>MJPropertyType.m</string>
-			<key>path</key>
-			<string>MJExtension/MJPropertyType.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>861B8CB6CF950B0660FC234F74829FF5</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>82A0DE9795E25C57D014C28B87E2DEB4</string>
-				<string>D0AE7D6EE0B88D56730B4CF3A4C28EB7</string>
-				<string>AE2804DA50370DD82DE1EB26AD9DAA25</string>
-				<string>CF7F40763AC1591D29431BCEA5868073</string>
-				<string>2726F5F28196EDECDB2335944D00071A</string>
-				<string>66D9CD26A4092CBDB884429E89A8F1AA</string>
-				<string>80D0F5D4A83DC79541368D194797D167</string>
-				<string>96D0943D0FF3077482AB6291D5041DC0</string>
-				<string>A4F58F114BC8E7DA7651D9CAC3B59F3F</string>
-				<string>010D1044CA460EAA4D19C677043FFAFA</string>
-				<string>D463E697A8491671091D3A19A46E6230</string>
-				<string>2ADD8E9A7F15DCB581C5B4732FFC4353</string>
-				<string>E8FA0CF6B61BDD70E9D4B8FEA692B83B</string>
-				<string>89C0EEC1C847ABBBF7421C4C1FC874F7</string>
-				<string>7D0563DF4AB604174BAB96755D6A245B</string>
-				<string>44B3AC49B80761781349E900636A6926</string>
-				<string>E309FBFECB8A9B0C7F2478361BEB50C7</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>UIKit</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>86A345B686DF337CC22C577DFD08F6D6</key>
+		<key>830050886B18F54E17F117FD8EFC717B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>4FCA3457F6C8648206FDFCFFF74B35F5</string>
+			<string>B8F92541B615ADA08269554E75C65E4D</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2743,40 +2775,34 @@
 				</array>
 			</dict>
 		</dict>
-		<key>87EE724D377F7D36F759135AF91040EA</key>
+		<key>859C18856EBCBFA025FC0B13E04592F5</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>AFNetworkActivityIndicatorManager.m</string>
 			<key>path</key>
-			<string>DDLogger.xcconfig</string>
+			<string>UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>88C6CB7768DD7C1DBDD38DE5E89D2F74</key>
+		<key>85FAB6F1D2FE0598BF2E61D7BB084B8D</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>CBF635C6F3905377E3E73FA6DC8A5CAB</string>
-				<string>98D7D3039B27B4C090B123FE5E69CAB2</string>
-				<string>16224C655735554CD65B502D16956E9B</string>
-				<string>26283346858688711888BB0F76891803</string>
-				<string>FA6D00B9936219196CB506035529C5C6</string>
-				<string>D64C166A8E9D9219571E9FFB17CD39CA</string>
-				<string>2457E097FB0696E78966DB61300FDBC5</string>
-				<string>6C2CDC79E86FEF752219F8556D33A4B2</string>
-			</array>
+			<key>fileRef</key>
+			<string>54BA179AA301FB6AEC864254280191F9</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ICTextView</string>
-			<key>path</key>
-			<string>ICTextView</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>89A85B9748991CC8E0D07259A71B2E67</key>
 		<dict>
@@ -2791,21 +2817,6 @@
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>89C0EEC1C847ABBBF7421C4C1FC874F7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>UIRefreshControl+AFNetworking.h</string>
-			<key>path</key>
-			<string>UIKit+AFNetworking/UIRefreshControl+AFNetworking.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>89C77330AD683E3247F6E575B2EAE5D5</key>
 		<dict>
 			<key>isa</key>
@@ -2816,19 +2827,6 @@
 			<string>B23B3D15FFC0FC9893968F478086D58D</string>
 			<key>targetProxy</key>
 			<string>6C3838C54C24104F00E412F77B67617E</string>
-		</dict>
-		<key>8A930E1F2AFE5E57DA9813B479B51AAE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MBProgressHUD.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>8AC41308505F0CEE5A1C4E21260C6E5A</key>
 		<dict>
@@ -2862,21 +2860,6 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>8AC989F9CA6FBE023DEF31362621E202</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MJExtensionConst.h</string>
-			<key>path</key>
-			<string>MJExtension/MJExtensionConst.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>8AFDA000077CBF973748B3D45869C54F</key>
 		<dict>
 			<key>isa</key>
@@ -2891,11 +2874,52 @@
 		<key>8B6B4FB5A92E1EEDAFC98E6DD1E81CA7</key>
 		<dict>
 			<key>fileRef</key>
-			<string>E061B6F37FEC21B7D3A4A398C867A5C4</string>
+			<string>E1B971B6AAD5DE3477E795FF432FFB43</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>8BB554D9AF36844B8232EDFDE4D3DC57</key>
+		<key>8B776D2D3DB35034B72E54A893F6D2BE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>DDLogDetailViewController.m</string>
+			<key>path</key>
+			<string>DDLogger/DDLogDetailViewController.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8BA87CBC56D502C8172F9834FF364D35</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MJExtension-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8C086A44243A69BF1738B74E2B0E8EDC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MBProgressHUD.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8D4986D3CCEE6317A88C74AF8040284A</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2904,16 +2928,16 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>NSObject+MJClass.h</string>
+			<string>NSObject+MJProperty.h</string>
 			<key>path</key>
-			<string>MJExtension/NSObject+MJClass.h</string>
+			<string>MJExtension/NSObject+MJProperty.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>8E67523FA02D12E85669CD3804AD848E</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>F9A26682F48C345CE6CF618EAA8C2D28</string>
+			<string>4FB811039971FE907D908DF12F83D2EC</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -2944,26 +2968,53 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>8F2118C95A102BE0855DD803865E5AC3</key>
+		<key>8E67A1CD8C53468B082828E6C0EE3218</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>DA35A7421E9A1AE744957F37853CED5A</string>
-				<string>D1D7B584C463F0E42FC8766400DEF8AC</string>
-				<string>BC8C38DEC48C705FE9335899257C8D4A</string>
-				<string>056CA6EA387EEBEF09601FC8E0697C21</string>
-				<string>7AEF2A8315817DFA32F98611B60CA231</string>
-				<string>350E571A2952B1C74155BC5F971F2EA6</string>
-				<string>7C50AEDAF1763E1E8EF5A705DC524622</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>Resources</string>
+			<string>ddlog_check_icon_normal@3x.png</string>
+			<key>path</key>
+			<string>DDLogger/ddlog_check_icon_normal@3x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>9005582E70F927E8BEB3F5692EF93AB9</key>
+		<key>8E82178CC9BD8BE3DBF2C10E33807AEB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EC425A1EA8CC993543217C99019D93D2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8F73E49BC39BFC4F6F3B3026A12D52B5</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>ZJCache.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8FB222B9577F5A8522C115BB78CB7E3E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>AFNetworking.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9052B72A6A2EF37157B229ADE456071F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2971,17 +3022,30 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>DDLoggerClient.m</string>
 			<key>path</key>
-			<string>DDLogger/DDLoggerClient.m</string>
+			<string>DDLogger-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>90DBEA89EA80EA10F41FD46188B1EBAB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>UIWebView+AFNetworking.h</string>
+			<key>path</key>
+			<string>UIKit+AFNetworking/UIWebView+AFNetworking.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>915CF3D94D7B86D18FF4A5624E180DE9</key>
 		<dict>
 			<key>fileRef</key>
-			<string>4138F414435F44CB9AA2123008FEB1EE</string>
+			<string>957DF66C774B699AEDC8D55896A3FFC4</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2992,10 +3056,66 @@
 				</array>
 			</dict>
 		</dict>
+		<key>9236B3014CF93D949739028B49EDBCDB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>NSObject+MJClass.h</string>
+			<key>path</key>
+			<string>MJExtension/NSObject+MJClass.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9238CC2B98890CAAD4D69BA02D81EAA3</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>81793A09BC1A021B01E5D688AC4255F7</string>
+				<string>C761C5442EC5643BFA5B2DDFBA36A760</string>
+				<string>25516CB12FAEACE25CBC20DB678EB561</string>
+				<string>0D2BB24E8B53C28D9B8CB0D8F03989C0</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>NSURLSession</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>928353533005A4198EBDA5B700D37B64</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>77CF2A7107BC61A2E90025871305961D</string>
+			<key>buildPhases</key>
+			<array>
+				<string>DE0BAD758C6F291CE7E10DA077987C62</string>
+				<string>508C962B3E08E8DA04956BF349A3CDFD</string>
+				<string>B981229135DBE9773A86BDB116C368D1</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>AFNetworking</string>
+			<key>productName</key>
+			<string>AFNetworking</string>
+			<key>productReference</key>
+			<string>ADCFAFC2A7D1402D2EE38DD5BE56C0E7</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
 		<key>92FD59FAF429D0E70FE0CAA654C69EB0</key>
 		<dict>
 			<key>fileRef</key>
-			<string>26283346858688711888BB0F76891803</string>
+			<string>CAFF98E464A0DF56FACCEEE86D5F81F2</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3006,72 +3126,25 @@
 				</array>
 			</dict>
 		</dict>
-		<key>94E21B9018003DE4FC4ECE1C35F54481</key>
+		<key>957DF66C774B699AEDC8D55896A3FFC4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ZJCache-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>95E69A233A1D42F7E36D4D4C79E5AF46</key>
-		<dict>
-			<key>fileRef</key>
-			<string>89A85B9748991CC8E0D07259A71B2E67</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>96BAD28968E676851AE10622F0AF57F5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Reachability-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>96C7E8AA9881FF1B1EC3EED102DF287D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3F68FA8CFD30A4C2466A708211DD7624</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>96D0943D0FF3077482AB6291D5041DC0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>UIButton+AFNetworking.m</string>
+			<string>ZJUserDefaultCacheDao.h</string>
 			<key>path</key>
-			<string>UIKit+AFNetworking/UIButton+AFNetworking.m</string>
+			<string>ZJCache/ZJCache/ZJUserDefaultCacheDao.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>9734B73DB91553CC9279C5DEF98B973F</key>
 		<dict>
 			<key>fileRef</key>
-			<string>E65DEC05B6DD023D81D31CBB1851FC93</string>
+			<string>D3CB1108245098B444C1C871B34250A4</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3085,9 +3158,22 @@
 		<key>979879335EE993B2ECA18D82431E3996</key>
 		<dict>
 			<key>fileRef</key>
-			<string>75A3F557B88C88E1861482F1BC5D7D09</string>
+			<string>314F75B7F4C5BAE331AD04CB73C3CFE9</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>982225EAC028964F789C967577F8C09B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Reachability.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>98C98CDFB3F20F2925F6CD1F141BB14F</key>
 		<dict>
@@ -3102,14 +3188,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>98D00CD3E197EAA6C7450281537CD79C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D017D6017BCFAF051E714B50A07C02E1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>98D7D3039B27B4C090B123FE5E69CAB2</key>
+		<key>9967A588BD509FBA60B305E3280EF79D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3118,9 +3197,9 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>ICRangeUtils.h</string>
+			<string>ZJDebug.h</string>
 			<key>path</key>
-			<string>ICTextView/ICRangeUtils.h</string>
+			<string>ZJUtils/ZJUtils/ZJDebug.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -3142,7 +3221,7 @@
 		<key>9A7B5EA1DE664C3F87DAE4BD1774C4A3</key>
 		<dict>
 			<key>fileRef</key>
-			<string>AEDCE9C852CA9232A89320F8BB794AC5</string>
+			<string>A0E22A51F7D1B0441A4D24B8B515DF46</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3157,41 +3236,6 @@
 		<dict>
 			<key>fileRef</key>
 			<string>62D17CB1CE0E78ACF219FD2FC9927222</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>9C5A2CD706CA4688C9F4BC6D63BAB935</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2726F5F28196EDECDB2335944D00071A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>9ECCBA3A8092E326BE8CAD2075001BB2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>89C0EEC1C847ABBBF7421C4C1FC874F7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>9F56B2A232106CEC99383ADACDC85C4A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>010D1044CA460EAA4D19C677043FFAFA</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -3214,7 +3258,7 @@
 		<key>A044BDEEC463D3CB278C383FA8BABEC6</key>
 		<dict>
 			<key>fileRef</key>
-			<string>460EA5C067C52D4223A27CB6995D5FE4</string>
+			<string>0459284617AC53C8A7C1AAA5054D4476</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3225,12 +3269,55 @@
 				</array>
 			</dict>
 		</dict>
+		<key>A068E5FC063467DEFCD9C2CECA3ABE92</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>NSObject+MJKeyValue.h</string>
+			<key>path</key>
+			<string>MJExtension/NSObject+MJKeyValue.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>A08F69E161BC21221A83F48C738C2F26</key>
 		<dict>
 			<key>fileRef</key>
-			<string>41EF7E6ABE508472F3E445AE551F5AA1</string>
+			<string>9052B72A6A2EF37157B229ADE456071F</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>A0E22A51F7D1B0441A4D24B8B515DF46</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>ZJFileCacheDao.h</string>
+			<key>path</key>
+			<string>ZJCache/ZJCache/ZJFileCacheDao.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A1247781CB6226A36EA1A0BD7C3DF0BC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MBProgressHUD-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>A1A36D34413696BE466E2CA0AFF194DA</key>
 		<dict>
@@ -3245,7 +3332,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A31A26C30A52F99CA745B56D74A2CDA6</key>
+		<key>A559087BB24EE24B362C13D85C895942</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3254,30 +3341,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>AFNetworkReachabilityManager.m</string>
+			<string>DDLogConsoleView.m</string>
 			<key>path</key>
-			<string>AFNetworking/AFNetworkReachabilityManager.m</string>
+			<string>DDLogger/DDLogConsoleView.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A48BB74302581FB662FE2BC0D825BE38</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E77A1D73048805A864BEE17A7DD9A82D</string>
-				<string>96BAD28968E676851AE10622F0AF57F5</string>
-				<string>4DCB6B32BA8DCF0A9ACED354ECE08A10</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/Reachability</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A4F58F114BC8E7DA7651D9CAC3B59F3F</key>
+		<key>A5FD75D06833F7EB7B387B3453E1D114</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3286,13 +3356,34 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>UIImageView+AFNetworking.h</string>
+			<string>ICRangeUtils.h</string>
 			<key>path</key>
-			<string>UIKit+AFNetworking/UIImageView+AFNetworking.h</string>
+			<string>ICTextView/ICRangeUtils.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A7C22ED2DA91DB93AF1433594F5391A9</key>
+		<key>A7C8D7134CB6F810ACD462BD42DE54E5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C2F20879085C1D476DFA493D4C6377F2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A8FC6A53F6C1CB4DEFD972664E1AF3B1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>217D705DCE2F50BDA2D58A6C18D430F6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>AB65541F7EC44867BED24009A6E24256</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0AE53B184EF53011E9A61CB750E47EF4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>AC9FC0034B523CA520CCF695E0F04AE5</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3300,61 +3391,26 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ICTextView-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A7C8D7134CB6F810ACD462BD42DE54E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CA4EB8570DF9D7D6F799E951B166C45D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A903F971702871B72BEA8510BB8CC55A</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>F82C1FC334369A8888DE218AEF62202E</string>
-				<string>CF2D33517C7370A7921BB3B0C8292CD2</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>A9326CEAEA810520CCF0A4A627CD460B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>FC52F676DBA89F61D5191E3335E253F6</string>
-				<string>74057484F84A81D68AE48866699B3ADD</string>
-				<string>07DA009992FD7CF5A05CD1B6D49CDEBD</string>
-				<string>F4373E12441994A0B864D0B4B40A6D70</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Serialization</string>
+			<string>MJProperty.m</string>
+			<key>path</key>
+			<string>MJExtension/MJProperty.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>AAF2E61730FAA37AF5A03D4571D30E8B</key>
+		<key>ACE9C1A6E8D5121C6C5F907C7A9CFCC9</key>
 		<dict>
 			<key>fileRef</key>
-			<string>CF7F40763AC1591D29431BCEA5868073</string>
+			<string>495C2B84E6D82A82C40AB558CA8E5F21</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>AB65541F7EC44867BED24009A6E24256</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9005582E70F927E8BEB3F5692EF93AB9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>AD0FB20EA0578A56E2C624B4880BB193</key>
 		<dict>
@@ -3362,6 +3418,41 @@
 			<string>89A85B9748991CC8E0D07259A71B2E67</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>AD359A96DD4AA2C962E50A5CD5524F54</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DAC7C3991B4F1B3677CDF4BB1189A8D6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>AD81348D55B4A4B1C4B4BE90EE142482</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>AFImageDownloader.h</string>
+			<key>path</key>
+			<string>UIKit+AFNetworking/AFImageDownloader.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>ADADC2D49AB851EBDECC68A4D03E0A12</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>ZJCache-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>ADCFAFC2A7D1402D2EE38DD5BE56C0E7</key>
 		<dict>
@@ -3378,33 +3469,31 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>AE2804DA50370DD82DE1EB26AD9DAA25</key>
+		<key>AE7CC35F5EC36453DF4BCB5A55C4961B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>UIActivityIndicatorView+AFNetworking.h</string>
+			<string>MJPropertyKey.m</string>
 			<key>path</key>
-			<string>UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h</string>
+			<string>MJExtension/MJPropertyKey.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>AEDCE9C852CA9232A89320F8BB794AC5</key>
+		<key>AF1584D49462E6316257315622A31C48</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>ZJFileCacheDao.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>ZJCache/ZJCache/ZJFileCacheDao.h</string>
+			<string>Reachability-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -3415,20 +3504,12 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>B1B6624E233924D2E3FF95002DBC5C36</key>
+		<key>B0BE398350F83A7B0102C3BBAFC51428</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>CC5BEDAA4E7CD26BA080097F4296D738</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NSObject+MJProperty.h</string>
-			<key>path</key>
-			<string>MJExtension/NSObject+MJProperty.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>B1C707AAB76B8BA4AE5ECFA13E8B986A</key>
 		<dict>
@@ -3440,24 +3521,9 @@
 		<key>B205CF070B99C857319A30A4D2B093E0</key>
 		<dict>
 			<key>fileRef</key>
-			<string>5D6704C19FAAB8416737BF7422D6B0EC</string>
+			<string>452BFECE06B3B96C604777F108C8F7E7</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>B2073577D6F71F79C6484992F5357905</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>AFHTTPRequestOperation.h</string>
-			<key>path</key>
-			<string>AFNetworking/AFHTTPRequestOperation.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>B23B3D15FFC0FC9893968F478086D58D</key>
 		<dict>
@@ -3557,6 +3623,23 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
+		<key>B3C38FCE757EA4F18EA20514E0C2CEAE</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>6674A2CE4582522FA979CE135D16621F</string>
+				<string>8C086A44243A69BF1738B74E2B0E8EDC</string>
+				<string>7021200703F9A72769C5D83B8FC16009</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>MBProgressHUD</string>
+			<key>path</key>
+			<string>MBProgressHUD</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>B3D1D13E0C6553800746CB8FD61CF946</key>
 		<dict>
 			<key>children</key>
@@ -3589,50 +3672,109 @@
 			<key>targetProxy</key>
 			<string>03F023B67FDD79A1BAD8D6634F6B123F</string>
 		</dict>
-		<key>B5C38708473D34826544B739C63E056A</key>
+		<key>B51AA1F7701DCDBCC9B88A15320F9C2C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>588FDC887AE1B7FAE292D23C04679391</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>B5CF67F7870BAB70A76E57479B706B42</key>
+		<dict>
+			<key>fileRef</key>
+			<string>90DBEA89EA80EA10F41FD46188B1EBAB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>B8CEC06F8CCEC2D2EAB510EFC1092830</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>NSObject+MJClass.m</string>
+			<string>NSObject+MJCoding.h</string>
 			<key>path</key>
-			<string>MJExtension/NSObject+MJClass.m</string>
+			<string>MJExtension/NSObject+MJCoding.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>B86C9715D0CB71E5504B1908724D038F</key>
+		<key>B8F92541B615ADA08269554E75C65E4D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>ZJFileCacheDao.m</string>
+			<string>UIActivityIndicatorView+AFNetworking.h</string>
 			<key>path</key>
-			<string>ZJCache/ZJCache/ZJFileCacheDao.m</string>
+			<string>UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>B8717E43629CC435DF8F769B66D0D373</key>
+		<key>B9802BB338660909CC47899741C53865</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>children</key>
+			<array>
+				<string>0DCEECC004EC6EE6ECEECD0B86247F76</string>
+				<string>EC425A1EA8CC993543217C99019D93D2</string>
+				<string>588FDC887AE1B7FAE292D23C04679391</string>
+				<string>F3EC9734B770D71D8F878E9FD61D1C7C</string>
+			</array>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>PBXGroup</string>
 			<key>name</key>
-			<string>MJFoundation.m</string>
-			<key>path</key>
-			<string>MJExtension/MJFoundation.m</string>
+			<string>Serialization</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B981229135DBE9773A86BDB116C368D1</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>19E6319F6ECED7539AABBD9A211F7AEC</string>
+				<string>F3774B1449FCE5B3CA3E1B336E11D284</string>
+				<string>326A543AD4E39A2DAECA1CD385E3AEA2</string>
+				<string>3939531EB270B4145C7ADFBAB2E5695F</string>
+				<string>0A08FC71C4E3B8E0F8734BCDA7CCA7CB</string>
+				<string>ED69D9B5A342FE9BD3F170D5CDDEC948</string>
+				<string>DFDAC8245626953C4BCE5A2DA6BE2A5B</string>
+				<string>2359387620C5E815BF0594BC40311734</string>
+				<string>B51AA1F7701DCDBCC9B88A15320F9C2C</string>
+				<string>3511AE7ADBB71D05565854F0E70B7D08</string>
+				<string>830050886B18F54E17F117FD8EFC717B</string>
+				<string>E212C2AA95E8F6EFB69A5F1455F291F8</string>
+				<string>C1B65C3D849FEE4FB5298A8135A765DA</string>
+				<string>6EC97BDB3FC508526F9E388095A7DDCC</string>
+				<string>85FAB6F1D2FE0598BF2E61D7BB084B8D</string>
+				<string>5D52DB6DF2E6C24CECB0015A9177A2E1</string>
+				<string>ACE9C1A6E8D5121C6C5F907C7A9CFCC9</string>
+				<string>B5CF67F7870BAB70A76E57479B706B42</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>B9C0E448D14F33AC5A6B1603C8158AA2</key>
 		<dict>
@@ -3650,7 +3792,7 @@
 		<key>BA432ED7527DA5A3775B67BF69FE15CA</key>
 		<dict>
 			<key>fileRef</key>
-			<string>BE60E95C3D44884820234A462F7B9097</string>
+			<string>8B776D2D3DB35034B72E54A893F6D2BE</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -3671,32 +3813,30 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>BA9B8CA5258B2986B8ACB04287EE4E61</key>
+		<key>BB4252DCDF67EC359C1C5726535DDF54</key>
+		<dict>
+			<key>fileRef</key>
+			<string>548AF2A68B409087F6DB07D7A4661833</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>BBF3E786A3579CDA3F67FA65D88D02AB</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>ZJDataCacheManager.m</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>ZJCache/ZJCache/ZJDataCacheManager.m</string>
+			<string>Reachability-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BB4252DCDF67EC359C1C5726535DDF54</key>
-		<dict>
-			<key>fileRef</key>
-			<string>94E21B9018003DE4FC4ECE1C35F54481</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>BC4D90B8369E4E12051E75A0959A38BC</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D1F73946D03AF2A97B3497BB3AA28FC5</string>
+			<string>CBCB5221CA35197BA7CD44496C6BF399</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3706,32 +3846,6 @@
 					<string>Project</string>
 				</array>
 			</dict>
-		</dict>
-		<key>BC7454AF85518615EDBD0C2A92C6E605</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MJExtension-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BC8C38DEC48C705FE9335899257C8D4A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ddlog_check_icon_selected@2x.png</string>
-			<key>path</key>
-			<string>DDLogger/ddlog_check_icon_selected@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>BD3100410F85252053AD9DFF72DAD0BB</key>
 		<dict>
@@ -3753,25 +3867,42 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>BE60E95C3D44884820234A462F7B9097</key>
+		<key>BD5C690DB3B43C0DD49537911B6FC40A</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>DDLogDetailViewController.m</string>
+			<string>MJExtensionConst.h</string>
 			<key>path</key>
-			<string>DDLogger/DDLogDetailViewController.m</string>
+			<string>MJExtension/MJExtensionConst.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BDB938D1439619ABD9F9778D5B03448D</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>4FB811039971FE907D908DF12F83D2EC</string>
+				<string>3D7DEAE017D1A1125EBE767B9372BAA1</string>
+				<string>1CD4643C398EF4CA27B22A0EBC790BB9</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/ICTextView</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>BFE1D87E9D4D58C95CEAF1737F70C956</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B8717E43629CC435DF8F769B66D0D373</string>
+			<string>1FD7D812150750A7758A34E835A3F723</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -3795,23 +3926,10 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>C23A71BE42DC352454C645CAF87D9B82</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ZJCache-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C2D9B8F82D04BDD22AE84A18C08A19C9</key>
+		<key>C1B65C3D849FEE4FB5298A8135A765DA</key>
 		<dict>
 			<key>fileRef</key>
-			<string>AE2804DA50370DD82DE1EB26AD9DAA25</string>
+			<string>D1D7E5E483327958A25F18C50D872F25</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3822,58 +3940,63 @@
 				</array>
 			</dict>
 		</dict>
+		<key>C2201E34603B014192F0967473518496</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F3EC9734B770D71D8F878E9FD61D1C7C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C2F20879085C1D476DFA493D4C6377F2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>DDLoggerManager.m</string>
+			<key>path</key>
+			<string>DDLogger/DDLoggerManager.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C38A54C979EA6089449E47AD964D9C7C</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>982225EAC028964F789C967577F8C09B</string>
+				<string>AF1584D49462E6316257315622A31C48</string>
+				<string>BBF3E786A3579CDA3F67FA65D88D02AB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/Reachability</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>C3E942A24436AFAE47C0F265F0CA369A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>BC7454AF85518615EDBD0C2A92C6E605</string>
+			<string>67F070BCEEFFE94BBDD2391172C602F1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
 		<key>C3EB1AF50203F4E383BB02AA9EAA2539</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F1EE87250BF8874A0D910C3FA2088AB5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C4D34910F4D6673E3B9E99D7A781DC6C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>44B3AC49B80761781349E900636A6926</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>C4E637B0486B165277F3156A5D650433</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>AFNetworking.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C59584009765D8E13DBD8C23AFC54E2B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7D4A122477CE37970F0E524F6DB1D612</string>
+			<string>3EAED088CFABA567176E11F6F5363FA5</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
 		<key>C5AFFFCB54FD9036E7BC9BA54ADAAF30</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>4462B467856EA9B54AA56346547D3DC9</string>
+			<string>1B2A7C4C51BA4D96A178DFFE7C12C4E4</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -3904,7 +4027,7 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>C710C235027D166CDD1FA0C392C26455</key>
+		<key>C761C5442EC5643BFA5B2DDFBA36A760</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3913,9 +4036,9 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>NSString+MJExtension.m</string>
+			<string>AFHTTPSessionManager.m</string>
 			<key>path</key>
-			<string>MJExtension/NSString+MJExtension.m</string>
+			<string>AFNetworking/AFHTTPSessionManager.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -3934,44 +4057,7 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>CA4EB8570DF9D7D6F799E951B166C45D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>DDLoggerManager.m</string>
-			<key>path</key>
-			<string>DDLogger/DDLoggerManager.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CBA8D62D1B551DF67A144FFEAD13EDB4</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3F68FA8CFD30A4C2466A708211DD7624</string>
-				<string>45550666AF44BEA250B35407A0E5B8E6</string>
-				<string>5EF39A9E007362DAEE60D8AA81E6D643</string>
-				<string>2BD3B9D2C189221DD0837EBD6325A99F</string>
-				<string>5430679E78D60E68A98B377528C9F07F</string>
-				<string>A9326CEAEA810520CCF0A4A627CD460B</string>
-				<string>DAF11EDF50222AD151EFC9F202BA944B</string>
-				<string>861B8CB6CF950B0660FC234F74829FF5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>AFNetworking</string>
-			<key>path</key>
-			<string>AFNetworking</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CBF635C6F3905377E3E73FA6DC8A5CAB</key>
+		<key>CA1F6AECDA7C03B4D10767129AFC7FB5</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3980,16 +4066,188 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>ICPreprocessor.h</string>
+			<string>AFNetworkActivityIndicatorManager.h</string>
 			<key>path</key>
-			<string>ICTextView/ICPreprocessor.h</string>
+			<string>UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CABE57E8DE939F0D6DDE981527EF72FE</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>FF2F612D79091132BDB9F052F6DC5902</string>
+				<string>A559087BB24EE24B362C13D85C895942</string>
+				<string>10DF9EE47B088DEB6DA167DA35E3E4EC</string>
+				<string>0C24DC84CCCC4BDDDEF8E3128FB22996</string>
+				<string>71961D7A66D23E8D45D054887BA06A0B</string>
+				<string>8B776D2D3DB35034B72E54A893F6D2BE</string>
+				<string>1390C0D746DE6E6532B1568FD353CD4B</string>
+				<string>ED55AC99674700478F9D7499AE0E88CF</string>
+				<string>0AE53B184EF53011E9A61CB750E47EF4</string>
+				<string>6A691906B72B6FE8318F38D8C2BC9A32</string>
+				<string>C2F20879085C1D476DFA493D4C6377F2</string>
+				<string>6369814BF97FC5F72E445C136D46159E</string>
+				<string>18724F902143449730CA4BA55B4A4CCE</string>
+				<string>CBCB5221CA35197BA7CD44496C6BF399</string>
+				<string>41BC021F776C7A7098A06B4B050F873D</string>
+				<string>743E0AD20D2609C18859594FDAF2B7C6</string>
+				<string>DC9749E834FE3C7A5BDDBDAC3F8FBCF1</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>DDLogger</string>
+			<key>path</key>
+			<string>DDLogger</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CAFF98E464A0DF56FACCEEE86D5F81F2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>ICRegularExpression.h</string>
+			<key>path</key>
+			<string>ICTextView/ICRegularExpression.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CBCB5221CA35197BA7CD44496C6BF399</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>DDLogListTableViewController.h</string>
+			<key>path</key>
+			<string>DDLogger/DDLogListTableViewController.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CC5BEDAA4E7CD26BA080097F4296D738</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>UIImageView+AFNetworking.m</string>
+			<key>path</key>
+			<string>UIKit+AFNetworking/UIImageView+AFNetworking.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CC81A25A1B6383A655F264CFEE3D382E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>ddlog_check_icon_selected@3x.png</string>
+			<key>path</key>
+			<string>DDLogger/ddlog_check_icon_selected@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CCD83876CCA8E8F79460FE24C1D1BF3E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>AFSecurityPolicy.m</string>
+			<key>path</key>
+			<string>AFNetworking/AFSecurityPolicy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CD5C04C7EAA09CB333E1B92CDA994030</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>CDF042033FABEBE7C356823F6D325B39</string>
+				<string>314F75B7F4C5BAE331AD04CB73C3CFE9</string>
+				<string>41FD9310283B49220402FD0853A54C8E</string>
+				<string>407A122FF9881124CBF6DEE326C620C3</string>
+				<string>A0E22A51F7D1B0441A4D24B8B515DF46</string>
+				<string>5984488459F594D76DFFB20C24822B77</string>
+				<string>957DF66C774B699AEDC8D55896A3FFC4</string>
+				<string>452BFECE06B3B96C604777F108C8F7E7</string>
+				<string>5EF8AE62EB46D2C0E4BCEBECFE700074</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>ZJCache</string>
+			<key>path</key>
+			<string>ZJCache</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CD656E459B61E9663764CDBD63C03CFC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>ZJCommonMacros.h</string>
+			<key>path</key>
+			<string>ZJUtils/ZJUtils/ZJCommonMacros.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CDF042033FABEBE7C356823F6D325B39</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>ZJCacheDao.h</string>
+			<key>path</key>
+			<string>ZJCache/ZJCache/ZJCacheDao.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CE5E5250D6FB20F623CA2068B27A4ABD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>ICRegularExpression.m</string>
+			<key>path</key>
+			<string>ICTextView/ICRegularExpression.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>CE6AEF7DE2C8418C84C5A865C1792D5F</key>
 		<dict>
 			<key>fileRef</key>
-			<string>CBF635C6F3905377E3E73FA6DC8A5CAB</string>
+			<string>F73CD857571314CD9A95C4A587079E10</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4000,10 +4258,17 @@
 				</array>
 			</dict>
 		</dict>
-		<key>CF2D33517C7370A7921BB3B0C8292CD2</key>
+		<key>CE8965366A3B07A6C0615055A31B8B83</key>
+		<dict>
+			<key>fileRef</key>
+			<string>89A85B9748991CC8E0D07259A71B2E67</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CF42542529F689B52406696B5784E1F9</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>C4E637B0486B165277F3156A5D650433</string>
+			<string>8FB222B9577F5A8522C115BB78CB7E3E</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -4037,39 +4302,9 @@
 		<key>CF4E05D946BF4F4E85A22231EC1F86DE</key>
 		<dict>
 			<key>fileRef</key>
-			<string>277E480536815F731EEE670E9BDD8F55</string>
+			<string>461B2D39DE4A543680C748EBF933DA66</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>CF5B0391263A17DEEB6EBDB101109EC8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>DDLogDetailKeyboardToolBar.m</string>
-			<key>path</key>
-			<string>DDLogger/DDLogDetailKeyboardToolBar.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CF7F40763AC1591D29431BCEA5868073</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>UIActivityIndicatorView+AFNetworking.m</string>
-			<key>path</key>
-			<string>UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>CFF918DBD50B0B67BEAD60D219D117C0</key>
 		<dict>
@@ -4084,50 +4319,7 @@
 			<key>remoteInfo</key>
 			<string>ZJCache</string>
 		</dict>
-		<key>D017D6017BCFAF051E714B50A07C02E1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>AFSecurityPolicy.m</string>
-			<key>path</key>
-			<string>AFNetworking/AFSecurityPolicy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D0AE7D6EE0B88D56730B4CF3A4C28EB7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>AFNetworkActivityIndicatorManager.m</string>
-			<key>path</key>
-			<string>UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D1D7B584C463F0E42FC8766400DEF8AC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ddlog_check_icon_normal@3x.png</string>
-			<key>path</key>
-			<string>DDLogger/ddlog_check_icon_normal@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D1F73946D03AF2A97B3497BB3AA28FC5</key>
+		<key>D1D7E5E483327958A25F18C50D872F25</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -4136,51 +4328,40 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>DDLogListTableViewController.h</string>
+			<string>UIImage+AFNetworking.h</string>
 			<key>path</key>
-			<string>DDLogger/DDLogListTableViewController.h</string>
+			<string>UIKit+AFNetworking/UIImage+AFNetworking.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D227CEAB5B8A915D6E65EA6DD91F51D6</key>
+		<key>D24AD5FDF56399E0B3D4BDEF840F5F6B</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>71CBDC0DDF47220793D6EDD07CC1AA9F</string>
+				<string>67F070BCEEFFE94BBDD2391172C602F1</string>
+				<string>8BA87CBC56D502C8172F9834FF364D35</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/MJExtension</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D31FEE51AF4BE2A6CC059F80B983CD3B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D0AE7D6EE0B88D56730B4CF3A4C28EB7</string>
+			<string>665669473C69A3C13605FBF86E2A6267</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>D2524949BE38F91510392F45719D0FC2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>DDLoggerManager.h</string>
-			<key>path</key>
-			<string>DDLogger/DDLoggerManager.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D2DB429FC3C56F188630C020847A51B8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MBProgressHUD-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>D34140627AA9906F84A524AB1A22748E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>DA75385F37E7E21AF43663B4B0CA3B6C</string>
+			<string>06A3763B5E4648CACBDFC3D24F8E574C</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4218,10 +4399,25 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+		<key>D3CB1108245098B444C1C871B34250A4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MJPropertyKey.h</string>
+			<key>path</key>
+			<string>MJExtension/MJPropertyKey.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>D4110838F297CB76E9BFABBC1463004B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>7E9B1F6D4BB541C182B337539384F457</string>
+			<string>38014EDE9F8AA70EECF193F3C8FF9F72</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4267,7 +4463,7 @@
 			<string></string>
 			<key>targets</key>
 			<array>
-				<string>2602F3D0DAC534568B6AD7EEA0DD1959</string>
+				<string>928353533005A4198EBDA5B700D37B64</string>
 				<string>D904373919663D988CECD2B9AA99489D</string>
 				<string>D4DA5A6A44ED9794FC9B9A28481F4F4F</string>
 				<string>FE2F1D7B9D9FCEA148517E4657B243F4</string>
@@ -4276,21 +4472,6 @@
 				<string>6873BB9D9F9146F5DE248B5A820E6180</string>
 				<string>07584FD4FBB383A70329364F625E2C19</string>
 			</array>
-		</dict>
-		<key>D463E697A8491671091D3A19A46E6230</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>UIKit+AFNetworking.h</string>
-			<key>path</key>
-			<string>UIKit+AFNetworking/UIKit+AFNetworking.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>D4DA5A6A44ED9794FC9B9A28481F4F4F</key>
 		<dict>
@@ -4317,31 +4498,45 @@
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>D53D346EDA02176B05B3EB0BC617354B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>96D0943D0FF3077482AB6291D5041DC0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D5C497D3889B24E3D13CB42D5D5D277A</key>
+		<key>D54193A095E53ECCB76538943F0877C5</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>395F8129CEA683851F6DA44D830DD917</string>
-				<string>277E480536815F731EEE670E9BDD8F55</string>
-				<string>A48BB74302581FB662FE2BC0D825BE38</string>
+				<string>E7B6F3CF51CD17B834F0F3F9A31D62A4</string>
+				<string>E1B971B6AAD5DE3477E795FF432FFB43</string>
+				<string>3F63DA875E939862B152986BC575C948</string>
+				<string>BD5C690DB3B43C0DD49537911B6FC40A</string>
+				<string>0B5FC39650EC9F41348F411334232B36</string>
+				<string>04921707D1E580973D7C4B70AF37A681</string>
+				<string>1FD7D812150750A7758A34E835A3F723</string>
+				<string>0459284617AC53C8A7C1AAA5054D4476</string>
+				<string>AC9FC0034B523CA520CCF695E0F04AE5</string>
+				<string>D3CB1108245098B444C1C871B34250A4</string>
+				<string>AE7CC35F5EC36453DF4BCB5A55C4961B</string>
+				<string>06A3763B5E4648CACBDFC3D24F8E574C</string>
+				<string>1B082FF0BE84706D02A179239DFA29D6</string>
+				<string>9236B3014CF93D949739028B49EDBCDB</string>
+				<string>F67632B1DA5F4E1E79142306D97CF103</string>
+				<string>B8CEC06F8CCEC2D2EAB510EFC1092830</string>
+				<string>53661874785857EEE591A44AF865E90A</string>
+				<string>A068E5FC063467DEFCD9C2CECA3ABE92</string>
+				<string>3EAED088CFABA567176E11F6F5363FA5</string>
+				<string>8D4986D3CCEE6317A88C74AF8040284A</string>
+				<string>FF4A314F7EE701DE3ED8D9FC09D8CF24</string>
+				<string>38014EDE9F8AA70EECF193F3C8FF9F72</string>
+				<string>E3674DB3C4610C693A811681F9257A07</string>
+				<string>D24AD5FDF56399E0B3D4BDEF840F5F6B</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Reachability</string>
+			<string>MJExtension</string>
 			<key>path</key>
-			<string>Reachability</string>
+			<string>MJExtension</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D64C166A8E9D9219571E9FFB17CD39CA</key>
+		<key>D58A69163401190B41960F87C26406FF</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -4350,18 +4545,11 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>ICTextView.h</string>
+			<string>AFAutoPurgingImageCache.h</string>
 			<key>path</key>
-			<string>ICTextView/ICTextView.h</string>
+			<string>UIKit+AFNetworking/AFAutoPurgingImageCache.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D6D9125049BC87CDA2D57020C0153E75</key>
-		<dict>
-			<key>fileRef</key>
-			<string>66D9CD26A4092CBDB884429E89A8F1AA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>D6E4E562A7766F6B57AC563B1A0CDAD9</key>
 		<dict>
@@ -4381,7 +4569,7 @@
 		<key>D74E278D26477C43A448BA45D4044B60</key>
 		<dict>
 			<key>fileRef</key>
-			<string>395F8129CEA683851F6DA44D830DD917</string>
+			<string>380AC5417339DDEA72B412A21F7A920C</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4391,21 +4579,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>D81493787EA17D7BE4EEA78B4507EE74</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>AFHTTPRequestOperationManager.h</string>
-			<key>path</key>
-			<string>AFNetworking/AFHTTPRequestOperationManager.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>D904373919663D988CECD2B9AA99489D</key>
 		<dict>
@@ -4434,25 +4607,25 @@
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>D95D6E62F1488BB52482EBAA16B792CA</key>
+		<key>D94CD91568B2512AC468B7E7D0C20F03</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>MJProperty.m</string>
+			<string>UIButton+AFNetworking.h</string>
 			<key>path</key>
-			<string>MJExtension/MJProperty.m</string>
+			<string>UIKit+AFNetworking/UIButton+AFNetworking.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>D9AD96F84A8B7111FDB36127B25267E4</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>E77A1D73048805A864BEE17A7DD9A82D</string>
+			<string>982225EAC028964F789C967577F8C09B</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -4483,38 +4656,25 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>DA35A7421E9A1AE744957F37853CED5A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ddlog_check_icon_normal@2x.png</string>
-			<key>path</key>
-			<string>DDLogger/ddlog_check_icon_normal@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DA75385F37E7E21AF43663B4B0CA3B6C</key>
+		<key>DAC7C3991B4F1B3677CDF4BB1189A8D6</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>MJPropertyType.h</string>
+			<string>UIWebView+AFNetworking.m</string>
 			<key>path</key>
-			<string>MJExtension/MJPropertyType.h</string>
+			<string>UIKit+AFNetworking/UIWebView+AFNetworking.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>DAD5C4333A7FA2DECFF4BEA4F17FEC6B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>EE8D3A70CB3D4D10E0E93C841AD072B6</string>
+			<string>04921707D1E580973D7C4B70AF37A681</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4524,23 +4684,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>DAF11EDF50222AD151EFC9F202BA944B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C4E637B0486B165277F3156A5D650433</string>
-				<string>485A4B0C5CD47A5755335A4099027F44</string>
-				<string>6A5FEE08576E3E21CFFD0152BD48CB71</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/AFNetworking</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>DBA6D72877569106B5919FC03569B367</key>
 		<dict>
@@ -4559,7 +4702,7 @@
 		<key>DBC399A4B8E6521B2A885EA52612BFB0</key>
 		<dict>
 			<key>fileRef</key>
-			<string>DF9F11DBE1CBB3D53217D32BBED4F551</string>
+			<string>3F63DA875E939862B152986BC575C948</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4598,10 +4741,70 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>DEA1065191A84F4399632F5DC5E5358B</key>
+		<key>DC9749E834FE3C7A5BDDBDAC3F8FBCF1</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>33B6DCDE560634ED991A18B3804974F8</string>
+				<string>9052B72A6A2EF37157B229ADE456071F</string>
+				<string>34401F03436016EEE50DC0C20068848A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>../Target Support Files/DDLogger</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DE0BAD758C6F291CE7E10DA077987C62</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>14CD3DFB4A25BAEFB205730FA6750025</string>
+				<string>23415204AA48A02959E4E5245CF96037</string>
+				<string>D31FEE51AF4BE2A6CC059F80B983CD3B</string>
+				<string>4BA19F7DD8F9FDA648137B2CE89E7588</string>
+				<string>A8FC6A53F6C1CB4DEFD972664E1AF3B1</string>
+				<string>43098B12DF5546CB576986E68DBCAFCA</string>
+				<string>311E5200832E4AE174A193851A2C6317</string>
+				<string>8E82178CC9BD8BE3DBF2C10E33807AEB</string>
+				<string>C2201E34603B014192F0967473518496</string>
+				<string>FCDDD3BC67EA205C87238A2A87D5C36C</string>
+				<string>15460ABD372C937E2A07A2FCDF98C473</string>
+				<string>78940A6980F359C4304C695EF6E67C5D</string>
+				<string>B0BE398350F83A7B0102C3BBAFC51428</string>
+				<string>38EEA9ED6B922946C54AD6BAC93B73AD</string>
+				<string>7F0578A0258E02384F6229C678E60D31</string>
+				<string>AD359A96DD4AA2C962E50A5CD5524F54</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>DED5A573D697074455E03CCAF2DCD2D2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>ICTextView.h</string>
+			<key>path</key>
+			<string>ICTextView/ICTextView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DFDAC8245626953C4BCE5A2DA6BE2A5B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>82A0DE9795E25C57D014C28B87E2DEB4</string>
+			<string>7595FEB306174F7CEB672DFCE54047C1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4612,64 +4815,21 @@
 				</array>
 			</dict>
 		</dict>
-		<key>DF180E88C3E1BF35D93F31300FA4BC65</key>
+		<key>E12D1811AE9FC1A9387FE250EB134DCC</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B2073577D6F71F79C6484992F5357905</string>
+			<string>A5FD75D06833F7EB7B387B3453E1D114</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict>
 				<key>ATTRIBUTES</key>
 				<array>
-					<string>Public</string>
+					<string>Project</string>
 				</array>
 			</dict>
 		</dict>
-		<key>DF1D19C1497E2972BE874B352453487C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MJExtension-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DF9F11DBE1CBB3D53217D32BBED4F551</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MJExtension.h</string>
-			<key>path</key>
-			<string>MJExtension/MJExtension.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E00EE38FF09501052C896613ACCB2BE1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>AFURLSessionManager.h</string>
-			<key>path</key>
-			<string>AFNetworking/AFURLSessionManager.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E061B6F37FEC21B7D3A4A398C867A5C4</key>
+		<key>E1B971B6AAD5DE3477E795FF432FFB43</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -4684,58 +4844,24 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E09EFAAFC01270126BE5D10CB0021FC4</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>5BDE13EB9DB505D701B13A1DBA1F5109</string>
-				<string>BC7454AF85518615EDBD0C2A92C6E605</string>
-				<string>DF1D19C1497E2972BE874B352453487C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/MJExtension</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E0AD0D5F753D42D393D93AF8FF1E1CCE</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>4462B467856EA9B54AA56346547D3DC9</string>
-				<string>05DAEB863C387CF6EC14543E109FC389</string>
-				<string>D2DB429FC3C56F188630C020847A51B8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/MBProgressHUD</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E12D1811AE9FC1A9387FE250EB134DCC</key>
+		<key>E212C2AA95E8F6EFB69A5F1455F291F8</key>
 		<dict>
 			<key>fileRef</key>
-			<string>98D7D3039B27B4C090B123FE5E69CAB2</string>
+			<string>D94CD91568B2512AC468B7E7D0C20F03</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
 			<dict>
 				<key>ATTRIBUTES</key>
 				<array>
-					<string>Project</string>
+					<string>Public</string>
 				</array>
 			</dict>
 		</dict>
 		<key>E24DC151CC2B3F7DE68EEB538094E11A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>EB1BAAAB146CE585DA09A912CF4ACE2D</string>
+			<string>FF2F612D79091132BDB9F052F6DC5902</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -4757,7 +4883,7 @@
 			<key>targetProxy</key>
 			<string>FA7A24567C3539B64965472A7F0164BD</string>
 		</dict>
-		<key>E309FBFECB8A9B0C7F2478361BEB50C7</key>
+		<key>E3674DB3C4610C693A811681F9257A07</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -4766,39 +4892,11 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>UIWebView+AFNetworking.m</string>
+			<string>NSString+MJExtension.m</string>
 			<key>path</key>
-			<string>UIKit+AFNetworking/UIWebView+AFNetworking.m</string>
+			<string>MJExtension/NSString+MJExtension.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E38C00106AD769DAA4E938F8878B7A7D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2ADD8E9A7F15DCB581C5B4732FFC4353</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>E4213D476018C8B58166DF22722C0463</key>
-		<dict>
-			<key>fileRef</key>
-			<string>831D6BB7EA8E528CA5F86D4D4BF887C0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E43F5D7E2C48C315DDA216F87E47B50B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>551C0B4180F1504F4B64BE1060061610</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>E441E2733BB95FAB6AE9F7D89C982BB5</key>
 		<dict>
@@ -4809,7 +4907,7 @@
 			<key>proxyType</key>
 			<string>1</string>
 			<key>remoteGlobalIDString</key>
-			<string>2602F3D0DAC534568B6AD7EEA0DD1959</string>
+			<string>928353533005A4198EBDA5B700D37B64</string>
 			<key>remoteInfo</key>
 			<string>AFNetworking</string>
 		</dict>
@@ -4823,29 +4921,14 @@
 		<key>E5FDED1F3CFC60D892F02046B8F4FB91</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D95D6E62F1488BB52482EBAA16B792CA</string>
+			<string>AC9FC0034B523CA520CCF695E0F04AE5</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>E65DEC05B6DD023D81D31CBB1851FC93</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>MJPropertyKey.h</string>
-			<key>path</key>
-			<string>MJExtension/MJPropertyKey.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>E6D6E3C0E31510BDB493ECC4B2E4DF2B</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>5142E11835A8334A7B17E15B763C2D14</string>
+			<string>8F73E49BC39BFC4F6F3B3026A12D52B5</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -4876,69 +4959,25 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>E6DDAC07F422C3AB91884DB2DCCF137D</key>
+		<key>E7B6F3CF51CD17B834F0F3F9A31D62A4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>NSObject+MJProperty.m</string>
+			<string>MJDictionaryCache.h</string>
 			<key>path</key>
-			<string>MJExtension/NSObject+MJProperty.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E6E2E57ADE1578E3ED86B1387009F3F8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6F2ED6B7C799A459257C52042837708E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>E6E39A848A4A27F9970426B70B78349E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>659AED86DBCC36B140144C7FA31579E0</string>
-				<string>FB79EFDD23A3CC79EEAA7278AA7C8DEE</string>
-				<string>6424C32408C414B19BC61BF91BA1C154</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ZJUtils</string>
-			<key>path</key>
-			<string>ZJUtils</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E77A1D73048805A864BEE17A7DD9A82D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Reachability.xcconfig</string>
+			<string>MJExtension/MJDictionaryCache.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
 		<key>E7B8141DB24F5AA0D1F847AFEC0DB018</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>4462B467856EA9B54AA56346547D3DC9</string>
+			<string>1B2A7C4C51BA4D96A178DFFE7C12C4E4</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -4969,21 +5008,6 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>E7F98CED0CD4C601318C9C1DCB3D21D7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>AFHTTPSessionManager.h</string>
-			<key>path</key>
-			<string>AFNetworking/AFHTTPSessionManager.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>E81C08F5CCC0A5FBFF4559E2173164C7</key>
 		<dict>
 			<key>buildActionMask</key>
@@ -4998,7 +5022,46 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>E8FA0CF6B61BDD70E9D4B8FEA692B83B</key>
+		<key>E84EB157F237C00F7B8E71E63814B7DA</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>CD656E459B61E9663764CDBD63C03CFC</string>
+				<string>9967A588BD509FBA60B305E3280EF79D</string>
+				<string>F13E72E941D3B20389A250C2F55336A4</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>ZJUtils</string>
+			<key>path</key>
+			<string>ZJUtils</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E98336E8AC56DF1D85B150C3458E3F37</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>file.xib</string>
+			<key>name</key>
+			<string>DDLogDetailViewController.xib</string>
+			<key>path</key>
+			<string>DDLogger/DDLogDetailViewController.xib</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E9FF6786EDCF303B455D928C19A94B23</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E3674DB3C4610C693A811681F9257A07</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>EA5F2129FF67C54466E404B0963D90FC</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -5007,51 +5070,39 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>UIProgressView+AFNetworking.m</string>
+			<string>UIRefreshControl+AFNetworking.m</string>
 			<key>path</key>
-			<string>UIKit+AFNetworking/UIProgressView+AFNetworking.m</string>
+			<string>UIKit+AFNetworking/UIRefreshControl+AFNetworking.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E9FF6786EDCF303B455D928C19A94B23</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C710C235027D166CDD1FA0C392C26455</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>EAC33FF21DBF26381F425381F18B9965</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A31A26C30A52F99CA745B56D74A2CDA6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>EB08C762A95EEDAFC7E3B6621EB3D4D3</key>
+		<key>EBE9D3F6F63E00E7877142360636EB8B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ICTextView-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EB1BAAAB146CE585DA09A912CF4ACE2D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>DDLogConsoleView.h</string>
+			<string>AFAutoPurgingImageCache.m</string>
 			<key>path</key>
-			<string>DDLogger/DDLogConsoleView.h</string>
+			<string>UIKit+AFNetworking/AFAutoPurgingImageCache.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EC425A1EA8CC993543217C99019D93D2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>AFURLRequestSerialization.m</string>
+			<key>path</key>
+			<string>AFNetworking/AFURLRequestSerialization.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -5070,22 +5121,7 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>EE8C40D9030E87D69DACECA9FD0506F6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>AFURLConnectionOperation.m</string>
-			<key>path</key>
-			<string>AFNetworking/AFURLConnectionOperation.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EE8D3A70CB3D4D10E0E93C841AD072B6</key>
+		<key>ED55AC99674700478F9D7499AE0E88CF</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -5094,11 +5130,25 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>MJFoundation.h</string>
+			<string>DDLoggerClient.h</string>
 			<key>path</key>
-			<string>MJExtension/MJFoundation.h</string>
+			<string>DDLogger/DDLoggerClient.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>ED69D9B5A342FE9BD3F170D5CDDEC948</key>
+		<dict>
+			<key>fileRef</key>
+			<string>792883CE8EAA34C6C140709C3ECC833F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>EF1C003613925663F17E023C73AF519C</key>
 		<dict>
@@ -5113,40 +5163,25 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>F06802316DD235FBB40BC284273405D6</key>
+		<key>F13E72E941D3B20389A250C2F55336A4</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>43E2B22CDD34DC9E3AC42491D4E0C7B6</string>
-				<string>C59584009765D8E13DBD8C23AFC54E2B</string>
-				<string>FB13976159230EA492199199181C64AC</string>
-				<string>D227CEAB5B8A915D6E65EA6DD91F51D6</string>
-				<string>205F51216177E22CD1AE443745B8A119</string>
-				<string>EAC33FF21DBF26381F425381F18B9965</string>
-				<string>98D00CD3E197EAA6C7450281537CD79C</string>
-				<string>23F5B559815FF24B03A7D5D76F19E740</string>
-				<string>3CE08E61AA9A53953E30A442440E4D8F</string>
-				<string>270D0D7DCF78170B1F481DDF511C07D6</string>
-				<string>E4213D476018C8B58166DF22722C0463</string>
-				<string>AAF2E61730FAA37AF5A03D4571D30E8B</string>
-				<string>D6D9125049BC87CDA2D57020C0153E75</string>
-				<string>D53D346EDA02176B05B3EB0BC617354B</string>
-				<string>9F56B2A232106CEC99383ADACDC85C4A</string>
-				<string>27AFE404AA450432596D55D44B871E62</string>
-				<string>0659C55D67614156ACE73EF681E30DC7</string>
-				<string>3940747A9B6BDD5DC55DFD9ECD8DC300</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>ZJObjectSingleton.h</string>
+			<key>path</key>
+			<string>ZJUtils/ZJUtils/ZJObjectSingleton.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>F1845AF920D29131DD0F2190F4AFFE03</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>87EE724D377F7D36F759135AF91040EA</string>
+			<string>33B6DCDE560634ED991A18B3804974F8</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
@@ -5177,36 +5212,6 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>F1EE87250BF8874A0D910C3FA2088AB5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>NSObject+MJKeyValue.m</string>
-			<key>path</key>
-			<string>MJExtension/NSObject+MJKeyValue.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F25A6679CD2884C68E727943E2D67647</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>MJExtensionConst.m</string>
-			<key>path</key>
-			<string>MJExtension/MJExtensionConst.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>F2F5671C4613023EE94A2E62DA06031D</key>
 		<dict>
 			<key>buildConfigurations</key>
@@ -5221,10 +5226,10 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>F3B32DA5C47A34B5B2609E632FFA8557</key>
+		<key>F3774B1449FCE5B3CA3E1B336E11D284</key>
 		<dict>
 			<key>fileRef</key>
-			<string>4DA6488EA3CA7A2FF6394A7A059B3350</string>
+			<string>81793A09BC1A021B01E5D688AC4255F7</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -5235,14 +5240,7 @@
 				</array>
 			</dict>
 		</dict>
-		<key>F4247929148215ECD67F70DFAF21FDA3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>96BAD28968E676851AE10622F0AF57F5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F4373E12441994A0B864D0B4B40A6D70</key>
+		<key>F3EC9734B770D71D8F878E9FD61D1C7C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -5256,6 +5254,13 @@
 			<string>AFNetworking/AFURLResponseSerialization.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F4247929148215ECD67F70DFAF21FDA3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AF1584D49462E6316257315622A31C48</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>F4CDA5FA9197A41E0081E84F932906EB</key>
 		<dict>
@@ -5273,7 +5278,7 @@
 		<key>F4FE543822D7F1895F09598D379D5313</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D2524949BE38F91510392F45719D0FC2</string>
+			<string>6A691906B72B6FE8318F38D8C2BC9A32</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -5284,104 +5289,7 @@
 				</array>
 			</dict>
 		</dict>
-		<key>F584307C8615A4FAB2D148DBE22D1591</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>DDLogger.h</string>
-			<key>path</key>
-			<string>DDLogger/DDLogger.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F75A4253699A8A8D78A31FC4313C6AEF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>CBA8D62D1B551DF67A144FFEAD13EDB4</string>
-				<string>21782CBC95CB69ADD86742ABC9E3B2F3</string>
-				<string>88C6CB7768DD7C1DBDD38DE5E89D2F74</string>
-				<string>70024ABAB8E1999201CCC7FBE3EB6CCD</string>
-				<string>442F1FDB14D892798D35EB058C36DB18</string>
-				<string>D5C497D3889B24E3D13CB42D5D5D277A</string>
-				<string>03EB88A844E7ECA13C0BFD982E8C2D0C</string>
-				<string>E6E39A848A4A27F9970426B70B78349E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F82C1FC334369A8888DE218AEF62202E</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>C4E637B0486B165277F3156A5D650433</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/AFNetworking/AFNetworking-prefix.pch</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PRIVATE_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string></string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>F92E8D28A2CF75F05B19F1B8262ADD20</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>DDLogListTableViewCell.h</string>
-			<key>path</key>
-			<string>DDLogger/DDLogListTableViewCell.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F9A26682F48C345CE6CF618EAA8C2D28</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>ICTextView.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FA6D00B9936219196CB506035529C5C6</key>
+		<key>F67632B1DA5F4E1E79142306D97CF103</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -5390,9 +5298,24 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>ICRegularExpression.m</string>
+			<string>NSObject+MJClass.m</string>
 			<key>path</key>
-			<string>ICTextView/ICRegularExpression.m</string>
+			<string>MJExtension/NSObject+MJClass.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F73CD857571314CD9A95C4A587079E10</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>ICPreprocessor.h</string>
+			<key>path</key>
+			<string>ICTextView/ICPreprocessor.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -5409,51 +5332,21 @@
 			<key>remoteInfo</key>
 			<string>ICTextView</string>
 		</dict>
-		<key>FB13976159230EA492199199181C64AC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7580E2E9D064A7CB6600482C190FCC76</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FB79EFDD23A3CC79EEAA7278AA7C8DEE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>ZJDebug.h</string>
-			<key>path</key>
-			<string>ZJUtils/ZJUtils/ZJDebug.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>FC214077677D4F02E03C6C85F774E028</key>
 		<dict>
 			<key>fileRef</key>
-			<string>05DAEB863C387CF6EC14543E109FC389</string>
+			<string>A1247781CB6226A36EA1A0BD7C3DF0BC</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>FC52F676DBA89F61D5191E3335E253F6</key>
+		<key>FCDDD3BC67EA205C87238A2A87D5C36C</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>0D2BB24E8B53C28D9B8CB0D8F03989C0</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>AFURLRequestSerialization.h</string>
-			<key>path</key>
-			<string>AFNetworking/AFURLRequestSerialization.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>FCE6644979A3696F76CEA3724EEC9B81</key>
+		<key>FD179B66EC76783C8C868A9638AA827F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -5462,9 +5355,9 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>MJPropertyKey.m</string>
+			<string>UIProgressView+AFNetworking.m</string>
 			<key>path</key>
-			<string>MJExtension/MJPropertyKey.m</string>
+			<string>UIKit+AFNetworking/UIProgressView+AFNetworking.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -5507,6 +5400,36 @@
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
 		</dict>
+		<key>FF2F612D79091132BDB9F052F6DC5902</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>DDLogConsoleView.h</string>
+			<key>path</key>
+			<string>DDLogger/DDLogConsoleView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FF4A314F7EE701DE3ED8D9FC09D8CF24</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>NSObject+MJProperty.m</string>
+			<key>path</key>
+			<string>MJExtension/NSObject+MJProperty.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>FF83C8E5D2263E43C84E27868ABA7A94</key>
 		<dict>
 			<key>baseConfigurationReference</key>
@@ -5538,21 +5461,6 @@
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Release</string>
-		</dict>
-		<key>FFE1B9CE58ACA3E4D7061CB7091179B3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NSObject+MJKeyValue.h</string>
-			<key>path</key>
-			<string>MJExtension/NSObject+MJKeyValue.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>

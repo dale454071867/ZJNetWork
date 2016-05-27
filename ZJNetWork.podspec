@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name          = "ZJCache" 
+  s.name          = "ZJNetWork" 
   s.version       = "1.0.0"
   s.license       = "MIT"
   s.summary       = "网络请求"
@@ -11,15 +11,13 @@ Pod::Spec.new do |s|
   s.description   = <<-DESC
                    Fast encryption string, the current support for MD5 (16, 32), Sha1, Base64
                    DESC
-  s.source_files  = "ZJNetWork/ZJNetWork/*.{h,m}"
-  s.source_files  = "ZJNetWork/ZJNetWork/Utils/*.{h,m}"
-  s.source_files  = "ZJNetWork/ZJNetWork/ZJNetworking/*.{h,m}"
+  s.source_files  = "ZJNetWork/ZJNetWork/*.{h,m}","ZJNetWork/ZJNetWork/ZJNetworking/*.{h,m}","ZJNetWork/ZJNetWork/Utils/*.{h,m}"
   s.platform      = :ios, '7.0'
-  s.dependency     'DDLogger', '~>1.1.1'
-  s.dependency     'ZJUtils', '~> 1.0.2' 
+  s.dependency     'ZJCache','1.0.0'
+  s.dependency     'DDLogger','1.1.1'
   s.dependency     'AFNetworking','2.5.1'
   s.dependency     'Reachability','3.2'
   s.dependency     'MBProgressHUD','0.9.1'
   s.dependency     'MJExtension','3.0.3'
-  s.dependency     'ZJCache', '1.0.0'
+  
 end

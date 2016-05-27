@@ -75,7 +75,7 @@
         _parmaterEncoding = ZJURLParameterEncoding;
         _totalData = NSIntegerMax;
         _downloadedData = 0;
-        _currentProgress = 0;
+        _downProgress = 0;
         _requestStartDate = [NSDate date];
         _isLoading = NO;
         _handleredResult = nil;
@@ -719,13 +719,13 @@
 - (void)showIndicator:(BOOL)bshow
 {
     _isLoading = bshow;
-    if (bshow && _indicatorView) {
+    if (_indicatorView) {
         dispatch_async(dispatch_get_main_queue(), ^{
             [MBProgressHUD showHUDAddedTo:_indicatorView animated:YES];
         });
     }else {
         dispatch_async(dispatch_get_main_queue(), ^{
-            [MBProgressHUD showHUDAddedTo:_indicatorView animated:YES];
+            [MBProgressHUD hideHUDForView:_indicatorView animated:YES];
         });
     }
 }
