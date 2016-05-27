@@ -287,11 +287,6 @@
     [self generateRequestWithUrl:self.requestUrl withParameters:params];
 }
 
-- (void)requestFailure:(AFHTTPRequestOperation *)operation handleError:(NSError*)error
-{
-    [self showNetError:error.localizedDescription];
-}
-
 
 
 -(void)showNetError:(NSString*)error

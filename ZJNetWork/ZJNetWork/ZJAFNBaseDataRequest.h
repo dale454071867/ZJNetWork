@@ -10,7 +10,6 @@
 
 
 
-@class AFHTTPRequestOperation;
 @interface ZJAFNBaseDataRequest : ZJBaseDataRequest
 @property(nonatomic,assign)BOOL isNoToken;
 @property(nonatomic,strong)NSString *port;
