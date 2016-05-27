@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary       = "网络请求"
   s.homepage      = "https://github.com/dale454071867/ZJNetWork"
   s.author        = { "zhoujie" => "454071867@qq.com" }
-  s.source        = { :git => "https://github.com/dale454071867/ZJNetWork.git", :tag =>"1.0.0" }
+  s.source        = { :git => "https://github.com/dale454071867/ZJNetWork.git", :tag =>"1.0.1" }
   s.requires_arc  = true
   s.description   = <<-DESC
                    Fast encryption string, the current support for MD5 (16, 32), Sha1, Base64
