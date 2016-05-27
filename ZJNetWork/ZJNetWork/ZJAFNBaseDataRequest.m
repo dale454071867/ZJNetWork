@@ -6,6 +6,9 @@
 //  Copyright (c) 2013 iTotemStudio. All rights reserved.
 //
 
+
+#define outTime 20.f
+
 #import "ZJAFNBaseDataRequest.h"
 #import "ZJNetworkTrafficManager.h"
 #import "AFNetworking.h"
@@ -15,7 +18,6 @@
 #import "ZJFileModel.h"
 #import "ErrorsInfoModel.h"
 #import "DDLogger.h"
-#define outTime 20.f
 #import "Reachability.h"
 #import "ZJNetError.h"
 #import "MJExtension.h"
