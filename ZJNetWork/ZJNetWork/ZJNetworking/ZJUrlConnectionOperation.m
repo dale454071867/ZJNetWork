@@ -1,6 +1,6 @@
 //
 //  ZJUrlConnectionOperation.m
-//  iTotemMinFramework
+//  ZJMinFramework
 //
 //  Created by Tom on 13-10-14.
 //

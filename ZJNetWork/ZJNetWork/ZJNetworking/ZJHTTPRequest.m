@@ -1,6 +1,6 @@
 //
 //  ZJHTTPRequest.m
-//  iTotemMinFramework
+//  ZJMinFramework
 //
 //  Created by Tom on 13-11-4.
 //

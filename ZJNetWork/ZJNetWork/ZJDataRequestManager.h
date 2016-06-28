@@ -1,9 +1,9 @@
 //
 //  ZJDataRequestManager.h
-//  iTotemFrame
+//  ZJFrame
 //  数据请求管理中心
 //  Created by jack 廉洁 on 3/12/12.
-//  Copyright (c) 2012 iTotemStudio. All rights reserved.
+//  Copyright (c) 2012 ZJStudio. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

@@ -3,7 +3,7 @@
 //  AiQiChe
 //
 //  Created by lian jie on 9/1/11.
-//  Copyright 2011 iTotem. All rights reserved.
+//  Copyright 2011 ZJ. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

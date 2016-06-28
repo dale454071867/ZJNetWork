@@ -1,9 +1,9 @@
 //
 //  ZJDataRequestManager.m
-//  iTotemFrame
+//  ZJFrame
 //
 //  Created by jack 廉洁 on 3/12/12.
-//  Copyright (c) 2012 iTotemStudio. All rights reserved.
+//  Copyright (c) 2012 ZJStudio. All rights reserved.
 //
 
 #import "ZJDataRequestManager.h"

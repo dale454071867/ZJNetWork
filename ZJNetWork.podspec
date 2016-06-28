@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name          = "ZJNetWork" 
-  s.version       = "1.0.0"
+  s.version       = "1.0.2"
   s.license       = "MIT"
   s.summary       = "网络请求"
   s.homepage      = "https://github.com/dale454071867/ZJNetWork"

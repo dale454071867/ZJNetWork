@@ -2,7 +2,7 @@
 //  DataEnvironment.m
 //  
 //
-//  Copyright 2010 itotem. All rights reserved.
+//  Copyright 2010 ZJ. All rights reserved.
 //
 
 

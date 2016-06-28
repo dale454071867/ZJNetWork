@@ -1,20 +1,18 @@
 //
 //  ZJAFNBaseDataRequest.m
-//  iTotemFramework
+//  ZJFramework
 //
 //  Created by Sword Zhou on 7/18/13.
-//  Copyright (c) 2013 iTotemStudio. All rights reserved.
+//  Copyright (c) 2013 ZJStudio. All rights reserved.
 //
 
 
 #define outTime 20.f
-
 #import "ZJAFNBaseDataRequest.h"
 #import "ZJNetworkTrafficManager.h"
 #import "AFNetworking.h"
 #import "ZJAFQueryStringPair.h"
 #import "ZJDataRequestManager.h"
-//#import "AFHTTPClient.h"
 #import "ZJFileModel.h"
 #import "ErrorsInfoModel.h"
 #import "DDLogger.h"

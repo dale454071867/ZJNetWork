@@ -1,9 +1,9 @@
 //
 //  ZJRequestJsonDataHandler.m
-//  iTotemFramework
+//  ZJFramework
 //
 //  Created by Sword on 13-9-5.
-//  Copyright (c) 2013年 iTotemStudio. All rights reserved.
+//  Copyright (c) 2013年 ZJStudio. All rights reserved.
 //
 
 #import "ZJRequestJsonDataHandler.h"
